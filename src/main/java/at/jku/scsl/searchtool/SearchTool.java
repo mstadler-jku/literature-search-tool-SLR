@@ -49,13 +49,53 @@ public class SearchTool {
                 return generateScopusSearchQuery();
             }
             case WEB_OF_SCIENCE -> {
-                // TODO: implement this query generator
+                return generateWoSSearchQuery();
             }
             case SPRINGER_LINK -> {
             }
             default -> logger.error("DatabaseType not implemented: {}", databaseType);
         }
         return "";
+    }
+
+    private String generateWoSSearchQuery() {
+        StringBuilder resultSB = new StringBuilder();
+        int queryCounter = 0;
+        for (BaseQuery baseQuery : this.queryList) {
+            queryCounter++;
+            StringBuilder querySB = new StringBuilder();
+            querySB.append("(");
+            int metaCounter = 0;
+            for (MetaDataType metaDataType : this.metaDataFields) {
+                metaCounter++;
+                if (metaDataType == MetaDataType.TITLE) {
+                    querySB.append("TI");
+                } else if (metaDataType == MetaDataType.ABSTRACT) {
+                    querySB.append("AB");
+                } else if (metaDataType == MetaDataType.KEYWORDS) {
+                    querySB.append("KP");
+                }
+                querySB.append("=").append("(");
+                int keywordCounter = 0;
+                for (String keyword : baseQuery.getKeywordList()) {
+                    keywordCounter++;
+                    querySB.append("\"").append(keyword.replace(" ", "-")).append("\"");
+                    if (keywordCounter != baseQuery.getKeywordList().size()) {
+                        querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                    }
+                }
+                querySB.append(")");
+                if (metaCounter != this.metaDataFields.size()) {
+                    querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                }
+            }
+            querySB.append(")");
+            if (queryCounter != this.queryList.size()) {
+                querySB.append(" ").append(this.booleanOperatorType).append(" ");
+            }
+            resultSB.append(querySB);
+        }
+        return resultSB.toString();
     }
 
     private String generateScopusSearchQuery() {

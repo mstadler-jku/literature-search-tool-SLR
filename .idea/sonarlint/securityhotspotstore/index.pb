@@ -10,8 +10,6 @@ c
 3src/main/java/at/jku/scsl/searchtool/BaseQuery.java,1\e\1e290da8f5e74c4e0e1f012374c05efff18f3789
 l
 <src/main/java/at/jku/scsl/searchtool/types/MetaDataType.java,f\1\f11d06ee9fa7ae00913c4c004d5612d3618394bc
-Y
-)src/main/java/at/jku/scsl/main/format.txt,2\3\237f91c6cce0e1862807036a8eff1a8d198ced43
 c
 3src/main/java/at/jku/scsl/searchtool/ACMSearch.java,7\7\770d86251591dbae17c04a7ea9dd3124a8652987
 W
