@@ -46,6 +46,7 @@ public class SearchTool {
                 return generateACMSearchQuery();
             }
             case SCOPUS -> {
+                return generateScopusSearchQuery();
             }
             case WEB_OF_SCIENCE -> {
             }
@@ -54,6 +55,37 @@ public class SearchTool {
             default -> logger.error("DatabaseType not implemented: {}", databaseType);
         }
         return "";
+    }
+
+    private String generateScopusSearchQuery() {
+        StringBuilder resultSB = new StringBuilder();
+        int queryCounter = 0;
+        for (BaseQuery baseQuery : this.queryList) {
+            queryCounter++;
+            StringBuilder querySB = new StringBuilder();
+            if (this.metaDataFields.contains(MetaDataType.TITLE) && this.metaDataFields.contains(MetaDataType.ABSTRACT) && this.metaDataFields.size() == 2) {
+                querySB.append("TITLE-ABS(");
+            } else if (this.metaDataFields.contains(MetaDataType.TITLE) && this.metaDataFields.contains(MetaDataType.ABSTRACT) && this.metaDataFields.contains(MetaDataType.KEYWORDS) && this.metaDataFields.size() == 3) {
+                querySB.append("TITLE-ABS-KEY(");
+            } else {
+                logger.error("This metadata combination is not implemented yet for this version!");
+                return "";
+            }
+            int keywordCunter = 0;
+            for (String keyword : baseQuery.getKeywordList()) {
+                keywordCunter++;
+                querySB.append("\"").append(keyword).append("\"");
+                if (keywordCunter != baseQuery.getKeywordList().size()) {
+                    querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                }
+            }
+            querySB.append(")");
+            resultSB.append(querySB);
+            if (queryCounter != this.queryList.size()) {
+                resultSB.append(" ").append(this.booleanOperatorType).append(" ");
+            }
+        }
+        return resultSB.toString();
     }
 
     private String generateACMSearchQuery() {

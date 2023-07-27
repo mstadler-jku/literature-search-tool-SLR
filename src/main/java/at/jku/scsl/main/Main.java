@@ -3,7 +3,7 @@ package at.jku.scsl.main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import static at.jku.scsl.searchtool.ACMSearch.searchACM;
+import static at.jku.scsl.searchtool.ScopusSearch.searchScopus;
 
 
 public class Main {
@@ -13,8 +13,8 @@ public class Main {
         logger.info("Welcome to the literature search tool!");
 
 //        searchIEEE();
-        searchACM();
-
+//        searchACM();
+        searchScopus();
     }
 
 
