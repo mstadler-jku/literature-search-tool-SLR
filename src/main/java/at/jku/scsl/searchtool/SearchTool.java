@@ -43,6 +43,7 @@ public class SearchTool {
                 return generateIEEESearchQuery();
             }
             case ACM_DIGITIAL_LIBRARY -> {
+                return generateACMSearchQuery();
             }
             case SCOPUS -> {
             }
@@ -53,6 +54,46 @@ public class SearchTool {
             default -> logger.error("DatabaseType not implemented: {}", databaseType);
         }
         return "";
+    }
+
+    private String generateACMSearchQuery() {
+        StringBuilder resultSB = new StringBuilder();
+        int queryCounter = 0;
+        for (BaseQuery baseQuery : this.queryList) {
+            queryCounter++;
+            StringBuilder querySB = new StringBuilder();
+            querySB.append("(");
+            int metaCounter = 0;
+            for (MetaDataType metaDataType : this.metaDataFields) {
+                metaCounter++;
+                if (metaDataType == MetaDataType.TITLE) {
+                    querySB.append("Title");
+                } else if (metaDataType == MetaDataType.ABSTRACT) {
+                    querySB.append("Abstract");
+                } else if (metaDataType == MetaDataType.KEYWORDS) {
+                    querySB.append("Keyword");
+                }
+                querySB.append(":").append("(");
+                int keywordCounter = 0;
+                for (String keyword : baseQuery.getKeywordList()) {
+                    keywordCounter++;
+                    querySB.append("\"").append(keyword).append("\"");
+                    if (keywordCounter != baseQuery.getKeywordList().size()) {
+                        querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                    }
+                }
+                querySB.append(")");
+                if (metaCounter != this.metaDataFields.size()) {
+                    querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                }
+            }
+            querySB.append(")");
+            if (queryCounter != this.queryList.size()) {
+                querySB.append(" ").append(this.booleanOperatorType).append(" ");
+            }
+            resultSB.append(querySB);
+        }
+        return resultSB.toString();
     }
 
     private String generateIEEESearchQuery() {

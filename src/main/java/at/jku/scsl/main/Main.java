@@ -3,7 +3,7 @@ package at.jku.scsl.main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import static at.jku.scsl.main.ACMSearch.searchACM;
+import static at.jku.scsl.searchtool.ACMSearch.searchACM;
 
 
 public class Main {

@@ -1,7 +1,5 @@
-package at.jku.scsl.main;
+package at.jku.scsl.searchtool;
 
-import at.jku.scsl.searchtool.BaseQuery;
-import at.jku.scsl.searchtool.SearchTool;
 import at.jku.scsl.searchtool.types.BooleanOperatorType;
 import at.jku.scsl.searchtool.types.DatabaseType;
 import at.jku.scsl.searchtool.types.MetaDataType;
