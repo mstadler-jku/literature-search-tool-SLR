@@ -93,4 +93,3 @@ operating mode
 operating modes
 multi modal
 adaptive security
-dynamic security
