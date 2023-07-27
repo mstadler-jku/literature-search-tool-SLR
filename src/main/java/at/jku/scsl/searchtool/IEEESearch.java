@@ -28,7 +28,7 @@ public class IEEESearch {
         // #3
 //        searchIEEE_THREE();
         // #4
-//        searchIEEE_FOUR();
+        searchIEEE_FOUR();
     }
 
 
@@ -49,12 +49,12 @@ public class IEEESearch {
         keywordQuerySecondHalf.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery softwareQuery = new BaseQuery();
-        softwareQuery.addKeyword("\"software\"");
-        softwareQuery.addKeyword("\"system\"");
+        softwareQuery.addKeyword("software");
+        softwareQuery.addKeyword("system");
         softwareQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery securityQuery = new BaseQuery();
-        securityQuery.addKeyword("\"security\"");
+        securityQuery.addKeyword("security");
         securityQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
 
@@ -93,12 +93,12 @@ public class IEEESearch {
         keywordQuerySecondHalf.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery softwareQuery = new BaseQuery();
-        softwareQuery.addKeyword("\"software\"");
-        softwareQuery.addKeyword("\"system\"");
+        softwareQuery.addKeyword("software");
+        softwareQuery.addKeyword("system");
         softwareQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery securityQuery = new BaseQuery();
-        securityQuery.addKeyword("\"security\"");
+        securityQuery.addKeyword("security");
         securityQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
 
@@ -137,11 +137,11 @@ public class IEEESearch {
         keywordQuerySecondHalf.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery softwareQuery = new BaseQuery();
-        softwareQuery.addKeyword("\"software\"");
+        softwareQuery.addKeyword("software");
         softwareQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery securityQuery = new BaseQuery();
-        securityQuery.addKeyword("\"security\"");
+        securityQuery.addKeyword("security");
         securityQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
 
@@ -180,11 +180,11 @@ public class IEEESearch {
         keywordQuerySecondHalf.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery softwareQuery = new BaseQuery();
-        softwareQuery.addKeyword("\"software\"");
+        softwareQuery.addKeyword("software");
         softwareQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
         BaseQuery securityQuery = new BaseQuery();
-        securityQuery.addKeyword("\"security\"");
+        securityQuery.addKeyword("security");
         securityQuery.setBooleanOperatorType(BooleanOperatorType.OR);
 
 

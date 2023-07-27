@@ -49,6 +49,7 @@ public class SearchTool {
                 return generateScopusSearchQuery();
             }
             case WEB_OF_SCIENCE -> {
+                // TODO: implement this query generator
             }
             case SPRINGER_LINK -> {
             }
@@ -144,7 +145,7 @@ public class SearchTool {
                     } else if (metaDataType == MetaDataType.KEYWORDS) {
                         querySB.append("\"Index Terms\":");
                     }
-                    querySB.append(keyword);
+                    querySB.append(keyword.replace(" ", "-"));
                     if (baseQuery.getBooleanOperatorType() != null) {
                         querySB.append(" ").append(baseQuery.getBooleanOperatorType()).append("\n\t");
                     }
