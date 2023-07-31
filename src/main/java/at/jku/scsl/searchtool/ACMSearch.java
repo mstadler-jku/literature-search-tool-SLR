@@ -34,10 +34,9 @@ public class ACMSearch {
 
     private static void searchACM_FOUR() {
 
+        logger.info("---------- Fourth Query ----------");
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
-
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -65,10 +64,10 @@ public class ACMSearch {
 
     private static void searchACM_THREE() {
 
+        logger.info("---------- Third Query ----------");
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -94,10 +93,12 @@ public class ACMSearch {
     }
 
     private static void searchACM_TWO() {
+
+
+        logger.info("---------- Second Query ----------");
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -123,10 +124,10 @@ public class ACMSearch {
 
     private static void searchACM_ONE() {
 
+        logger.info("---------- First Query ----------");
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);

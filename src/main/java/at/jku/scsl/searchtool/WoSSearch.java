@@ -34,10 +34,12 @@ public class WoSSearch {
 
     private static void searchWoS_FOUR() {
 
+
+        logger.info("---------- Fourth Query ----------");
+
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -65,10 +67,12 @@ public class WoSSearch {
 
     private static void searchWoS_THREE() {
 
+
+        logger.info("---------- Third Query ----------");
+
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -94,10 +98,13 @@ public class WoSSearch {
     }
 
     private static void searchWoS_TWO() {
+
+
+        logger.info("---------- SecondQuery ----------");
+
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
@@ -123,10 +130,11 @@ public class WoSSearch {
 
     private static void searchWoS_ONE() {
 
+        logger.info("---------- First Query ----------");
+
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);

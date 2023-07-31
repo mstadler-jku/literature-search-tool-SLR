@@ -174,7 +174,6 @@ public class SpringerLinkSearch {
         String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
         List<String> keywordList = Util.readKeywords(keywordFilePath);
 
-        logger.info("Found {} keywords in '{}'", keywordList.size(), keywordFilePath);
 
         BaseQuery keywordQuery = new BaseQuery();
         keywordQuery.setKeywordList(keywordList);
