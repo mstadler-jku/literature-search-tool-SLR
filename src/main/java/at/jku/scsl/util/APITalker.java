@@ -1,5 +1,6 @@
 package at.jku.scsl.util;
 
+import jdk.jshell.spi.ExecutionControl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -23,8 +24,9 @@ public class APITalker {
     private final String springerLinkApiKey;
 
 
-    public APITalker() {
+    public APITalker() throws ExecutionControl.NotImplementedException {
         this.springerLinkApiKey = getSLAPIKey();
+        throw new ExecutionControl.NotImplementedException("This class is at the moment not completely implemented!");
     }
 
 
@@ -101,6 +103,7 @@ public class APITalker {
             int statusCode = connection.getResponseCode();
             if (statusCode == 200) {
                 // handle response...
+                // TODO: finalize this if needed
                 BufferedReader in = new BufferedReader(
                         new InputStreamReader(connection.getInputStream()));
                 String inputLine;
