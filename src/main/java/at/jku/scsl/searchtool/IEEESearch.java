@@ -25,11 +25,11 @@ public class IEEESearch {
         logger.info("########## IEEE Xplore ##########");
 
         // #1
-        searchIEEE_ONE();
-        // #2
-        searchIEEE_TWO();
-        // #3
-        searchIEEE_THREE();
+//        searchIEEE_ONE();
+//        // #2
+//        searchIEEE_TWO();
+//        // #3
+//        searchIEEE_THREE();
         // #4
         searchIEEE_FOUR();
     }

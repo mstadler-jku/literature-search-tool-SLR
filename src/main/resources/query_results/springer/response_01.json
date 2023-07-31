@@ -1,0 +1,700 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "((title:\"mode change\" OR title:\"mode changing\" OR title:\"mode changes\" OR title:\"mode handle\" OR title:\"mode handler\" OR title:\"mode handling\" OR title:\"mode switch\" OR title:\"mode switching\" OR title:\"mode switches\" OR title:\"mode transfer\" OR title:\"mode transfers\" OR title:\"mode transition\" OR title:\"mode transitioning\" OR title:\"mode transitions\" OR title:\"mode shift\" OR title:\"mode shifts\" OR title:\"mode shifting\" OR title:\"state change\" OR title:\"state changing\" OR title:\"state changes\" OR title:\"state handle\" OR title:\"state handler\" OR title:\"state handling\" OR title:\"state switch\" OR title:\"state switching\" OR title:\"state switches\" OR title:\"state transfer\" OR title:\"state transfers\" OR title:\"state transition\" OR title:\"state transitioning\" OR title:\"state transitions\" OR title:\"state shift\" OR title:\"state shifts\" OR title:\"state shifting\" OR title:\"scenario change\" OR title:\"scenario changing\" OR title:\"scenario changes\" OR title:\"scenario handle\" OR title:\"scenario handler\" OR title:\"scenario handling\" OR title:\"scenario switch\" OR title:\"scenario switching\" OR title:\"scenario switches\" OR title:\"scenario transfer\" OR title:\"scenario transfers\" OR title:\"scenario transition\" OR title:\"scenario transitioning\" OR title:\"scenario transitions\" OR title:\"scenario shift\" OR title:\"scenario shifts\" OR title:\"scenario shifting\" OR keyword:\"mode change\" OR keyword:\"mode changing\" OR keyword:\"mode changes\" OR keyword:\"mode handle\" OR keyword:\"mode handler\" OR keyword:\"mode handling\" OR keyword:\"mode switch\" OR keyword:\"mode switching\" OR keyword:\"mode switches\" OR keyword:\"mode transfer\" OR keyword:\"mode transfers\" OR keyword:\"mode transition\" OR keyword:\"mode transitioning\" OR keyword:\"mode transitions\" OR keyword:\"mode shift\" OR keyword:\"mode shifts\" OR keyword:\"mode shifting\" OR keyword:\"state change\" OR keyword:\"state changing\" OR keyword:\"state changes\" OR keyword:\"state handle\" OR keyword:\"state handler\" OR keyword:\"state handling\" OR keyword:\"state switch\" OR keyword:\"state switching\" OR keyword:\"state switches\" OR keyword:\"state transfer\" OR keyword:\"state transfers\" OR keyword:\"state transition\" OR keyword:\"state transitioning\" OR keyword:\"state transitions\" OR keyword:\"state shift\" OR keyword:\"state shifts\" OR keyword:\"state shifting\" OR keyword:\"scenario change\" OR keyword:\"scenario changing\" OR keyword:\"scenario changes\" OR keyword:\"scenario handle\" OR keyword:\"scenario handler\" OR keyword:\"scenario handling\" OR keyword:\"scenario switch\" OR keyword:\"scenario switching\" OR keyword:\"scenario switches\" OR keyword:\"scenario transfer\" OR keyword:\"scenario transfers\" OR keyword:\"scenario transition\" OR keyword:\"scenario transitioning\" OR keyword:\"scenario transitions\" OR keyword:\"scenario shift\" OR keyword:\"scenario shifts\" OR keyword:\"scenario shifting\") AND (title:\"software\" OR title:\"system\" OR keyword:\"software\" OR keyword:\"system\") AND (title:\"security\" OR keyword:\"security\"))",
+  "apiKey": "???",
+  "result": [
+    {
+      "total": "4",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "4"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1007/s11277-021-08243-3",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11277-021-08243-3"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11277-021-08243-3"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/s11277-021-08243-3"
+        }
+      ],
+      "title": "Cellular Automata based Cryptography Model for Reliable Encryption Using State Transition in Wireless Network Optimizing Data Security",
+      "creators": [
+        {
+          "ORCID": "0000-0003-3529-8268",
+          "creator": "Banerjee, Ayan"
+        },
+        {
+          "creator": "Kundu, Anirban"
+        }
+      ],
+      "publicationName": "Wireless Personal Communications",
+      "openaccess": "false",
+      "doi": "10.1007/s11277-021-08243-3",
+      "publisher": "Springer",
+      "publisherName": "Springer US",
+      "publicationDate": "2021-07-01",
+      "publicationType": "Journal",
+      "issn": "0929-6212",
+      "eIssn": "1572-834X",
+      "volume": "119",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": "OriginalPaper",
+      "startingPage": "877",
+      "endingPage": "918",
+      "journalId": "11277",
+      "printDate": "2021-06-16",
+      "onlineDate": "2021-03-19",
+      "coverDate": "2021-07",
+      "copyright": "©2021 The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature",
+      "abstract": "Authors propose a hardware based approach for reliable encryption in wireless network using Cellular Automata (CA). Distinct layers of encryption have been utilized in proposed model for enhancing data security. Transmitter and receiver modules are designed for performing state transition based encrypted activities. Transmitter module is required for capturing environmental turbulences (noise) from a specific geographical location and send encrypted signal to receiver module through wireless network. Receiver module analyses received signal after decryption for desired activities based on real time situations. Different hardware components are selected and compared based on market study targeting efficient construction of proposed modules. Time complexity and code break complexity are measured using different key lengths, keysets, and data sizes for proposed CA based encryption scheme achieving unique results in hardware based cryptography system. Encryption key length, index, and keyset are required for computing code break complexity in design model. Large data size is effectively managed to calculate protection ratio and reliability factor for realizing efficient protectiveness and accuracy. Comparative study between existing encryption technique and proposed CA based encryption technique is established based on time complexity and code break complexity.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Wireless communication",
+        "Encryption system",
+        "Advanced encryption system (AES)",
+        "Cellular automata (CA)",
+        "CA based encryption",
+        "Cryptography",
+        "State transition"
+      ],
+      "subjects": [
+        "Engineering",
+        "Communications Engineering, Networks",
+        "Signal,Image and Speech Processing",
+        "Computer Communication Networks"
+      ]
+    },
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-59028-4_6",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-59028-4_6"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-59028-4_6"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-59028-4_6"
+        }
+      ],
+      "title": "Mode Switching from a Security Perspective: First Findings of a Systematic Literature Review",
+      "creators": [
+        {
+          "ORCID": "0000-0002-6937-986X",
+          "creator": "Riegler, Michael"
+        },
+        {
+          "ORCID": "0000-0002-0637-6602",
+          "creator": "Sametinger, Johannes"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Kotsis, Gabriele"
+        },
+        {
+          "bookEditor": "Tjoa, A Min"
+        },
+        {
+          "bookEditor": "Khalil, Ismail"
+        },
+        {
+          "bookEditor": "Fischer, Lukas"
+        },
+        {
+          "bookEditor": "Moser, Bernhard"
+        },
+        {
+          "bookEditor": "Mashkoor, Atif"
+        },
+        {
+          "bookEditor": "Sametinger, Johannes"
+        },
+        {
+          "bookEditor": "Fensel, Anna"
+        },
+        {
+          "bookEditor": "Martinez-Gil, Jorge"
+        }
+      ],
+      "publicationName": "Database and Expert Systems Applications",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-59028-4_6",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-59027-7",
+      "electronicIsbn": "978-3-030-59028-4",
+      "isbn": "978-3-030-59027-7",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-09-12",
+      "seriesId": "7899",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "With increased interoperability of cyber-physical systems (CPSs), security becomes increasingly critical for many of these systems. We know mode switching from domains like aviation and automotive, and we imagine to use this mechanism for the development of resilient systems that continue to function correctly even if under malicious attack. If vulnerabilities are detected or even known, modes can be switched to reduce the attack surface and to minimize attackers’ range of activity. We propose to engineer CPSs with multi-modal software architectures to overcome the interval between the time when zero-day vulnerabilities become known and the time when corresponding updates become available. Thus, affected companies, operators and people will be able to protect themselves and their customers without having to wait for security updates. This paper presents first findings of a systematic literature review (SLR) on mode switching from a security perspective.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Database and Expert Systems Applications",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "dexa"
+            },
+            {
+              "type": "DBLP",
+              "value": "dexa"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "dexa2020"
+            }
+          ],
+          "confEventAbbreviation": "DEXA",
+          "confNumber": "31",
+          "confEventLocation": [
+            {
+              "city": "Bratislava",
+              "country": [
+                {
+                  "code": "SK",
+                  "value": "Slovakia"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "09",
+              "day": "14"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "09",
+              "day": "17"
+            }
+          ],
+          "confEventURL": "http://www.dexa.org/dexa2020",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3-4",
+            "averageNumberOfReviewsPerPaper": "4-6",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "38",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "20",
+            "submissionsSentForReview": "190",
+            "type": "Double-blind",
+            "value": "Due to the COVID-19 pandemic the conference was held online. DEXA Workshops volume: submissions sent - 15, full papers accepted - 6, short papers accepted - 4, reviewers per paper 3, papers per reviewer 1-2"
+          }
+        }
+      ],
+      "keyword": [
+        "Mode switching",
+        "Protocols",
+        "Security",
+        "Resilience",
+        "Cyber-physical system"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Database Management",
+        "Artificial Intelligence",
+        "Computer Communication Networks",
+        "Mathematics of Computing",
+        "Cryptology",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1007/s11859-018-1312-3",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11859-018-1312-3"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11859-018-1312-3"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/s11859-018-1312-3"
+        }
+      ],
+      "title": "Risk Analysis of Information System Security Based on Distance of Information-State Transition",
+      "creators": [
+        {
+          "creator": "Zhou, Chao"
+        },
+        {
+          "creator": "Pan, Ping"
+        },
+        {
+          "creator": "Mao, Xinyue"
+        },
+        {
+          "creator": "Huang, Liang"
+        }
+      ],
+      "publicationName": "Wuhan University Journal of Natural Sciences",
+      "openaccess": "false",
+      "doi": "10.1007/s11859-018-1312-3",
+      "publisher": "Springer",
+      "publisherName": "Wuhan University",
+      "publicationDate": "2018-06-01",
+      "publicationType": "Journal",
+      "issn": "1007-1202",
+      "eIssn": "1993-4998",
+      "volume": "23",
+      "number": "3",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Computer Science"
+      ],
+      "startingPage": "210",
+      "endingPage": "218",
+      "journalId": "11859",
+      "onlineDate": "2018-05-17",
+      "coverDate": "2018-06",
+      "copyright": "©2018 Wuhan University and Springer-Verlag GmbH Germany, part of Springer Nature",
+      "abstract": "The configuration of information system security policy is directly related to the information asset risk, and the configuration required by the classified security protection is able to ensure the optimal and minimum policy in the corresponding security level. Through the random survey on the information assets of multiple departments, this paper proposes the relative deviation distance of security policy configuration as risk measure parameter based on the distance of information-state transition (DIT) theory. By quantitatively analyzing the information asset weight, deviation degree and DIT, we establish the evaluation model for information system. With example analysis, the results prove that this method conducts effective risk evaluation on the information system intuitively and reliably, avoids the threat caused by subjective measurement, and shows performance benefits compared with existing solutions. It is not only theoretically but also practically feasible to realize the scientific analysis of security risk for the information system.",
+      "conferenceInfo": [],
+      "keyword": [
+        "distance of information-state transition (DIT)",
+        "deviation distance",
+        "information asset",
+        "risk analysis",
+        "TP 309"
+      ],
+      "subjects": [
+        "Life Sciences",
+        "Life Sciences, general",
+        "Materials Science, general",
+        "Computer Science, general"
+      ]
+    },
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/11596981_66",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/11596981_66"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/11596981_66"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/11596981_66"
+        }
+      ],
+      "title": "Building Security Requirements Using State Transition Diagram at Security Threat Location",
+      "creators": [
+        {
+          "creator": "Seo, Seong Chae"
+        },
+        {
+          "creator": "You, Jin Ho"
+        },
+        {
+          "creator": "Kim, Young Dae"
+        },
+        {
+          "creator": "Choi, Jun Yong"
+        },
+        {
+          "creator": "Lee, Sang Jun"
+        },
+        {
+          "creator": "Kim, Byung Ki"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Hao, Yue"
+        },
+        {
+          "bookEditor": "Liu, Jiming"
+        },
+        {
+          "bookEditor": "Wang, Yu-Ping"
+        },
+        {
+          "bookEditor": "Cheung, Yiu-ming"
+        },
+        {
+          "bookEditor": "Yin, Hujun"
+        },
+        {
+          "bookEditor": "Jiao, Licheng"
+        },
+        {
+          "bookEditor": "Ma, Jianfeng"
+        },
+        {
+          "bookEditor": "Jiao, Yong-Chang"
+        }
+      ],
+      "publicationName": "Computational Intelligence and Security",
+      "openaccess": "false",
+      "doi": "10.1007/11596981_66",
+      "publisher": "Springer",
+      "publisherName": "Springer Berlin Heidelberg",
+      "publicationDate": "2005-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-540-30819-5",
+      "electronicIsbn": "978-3-540-31598-8",
+      "isbn": "978-3-540-30819-5",
+      "genre": "OriginalPaper Proceedings",
+      "seriesId": "558",
+      "copyright": "©2005 Springer-Verlag Berlin Heidelberg",
+      "abstract": "The security requirements in the software life cycle has received some attention recently. However, it is not yet clear how to build security requirements. This paper describes and illustrates a process to build application specific security requirements from state transition diagrams at the security threat location. Using security failure data, we identify security threat locations which attackers could use to exploit software vulnerabilities. A state transition diagram is constructed to be used to protect, mitigate, and remove vulnerabilities relative to security threat locations. In the software development process, security requirements are obtained from state transition diagrams relative to the security threat location.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Computational and Information Science",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "cis"
+            },
+            {
+              "type": "DBLP",
+              "value": "cis"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "cis2005"
+            }
+          ],
+          "confEventAbbreviation": "CIS",
+          "confEventLocation": [
+            {
+              "city": "Xi'an",
+              "country": [
+                {
+                  "code": "CN",
+                  "value": "China"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2005",
+              "month": "12",
+              "day": "15"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2005",
+              "month": "12",
+              "day": "19"
+            }
+          ]
+        }
+      ],
+      "keyword": [
+        "Security Requirement",
+        "Security Threat",
+        "Software Development Process",
+        "Vulnerability Analysis",
+        "State Transition Diagram"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Cryptology",
+        "Artificial Intelligence",
+        "Information Storage and Retrieval",
+        "Information Systems Applications (incl. Internet)",
+        "Computation by Abstract Devices",
+        "Algorithm Analysis and Problem Complexity"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "2"
+        },
+        {
+          "value": "Computer Communication Networks",
+          "count": "2"
+        },
+        {
+          "value": "Computer Science",
+          "count": "2"
+        },
+        {
+          "value": "Cryptology",
+          "count": "2"
+        },
+        {
+          "value": "Algorithm Analysis and Problem Complexity",
+          "count": "1"
+        },
+        {
+          "value": "Communications Engineering, Networks",
+          "count": "1"
+        },
+        {
+          "value": "Computation by Abstract Devices",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science, general",
+          "count": "1"
+        },
+        {
+          "value": "Database Management",
+          "count": "1"
+        },
+        {
+          "value": "Engineering",
+          "count": "1"
+        },
+        {
+          "value": "Information Storage and Retrieval",
+          "count": "1"
+        },
+        {
+          "value": "Information Systems Applications (incl. Internet)",
+          "count": "1"
+        },
+        {
+          "value": "Life Sciences",
+          "count": "1"
+        },
+        {
+          "value": "Life Sciences, general",
+          "count": "1"
+        },
+        {
+          "value": "Materials Science, general",
+          "count": "1"
+        },
+        {
+          "value": "Mathematics of Computing",
+          "count": "1"
+        },
+        {
+          "value": "Signal,Image and Speech Processing",
+          "count": "1"
+        },
+        {
+          "value": "Theory of Computation",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Advanced encryption system (AES)",
+          "count": "1"
+        },
+        {
+          "value": "CA based encryption",
+          "count": "1"
+        },
+        {
+          "value": "Cellular automata (CA)",
+          "count": "1"
+        },
+        {
+          "value": "Cryptography",
+          "count": "1"
+        },
+        {
+          "value": "Cyber-physical system",
+          "count": "1"
+        },
+        {
+          "value": "deviation distance",
+          "count": "1"
+        },
+        {
+          "value": "distance of information-state transition (DIT)",
+          "count": "1"
+        },
+        {
+          "value": "Encryption system",
+          "count": "1"
+        },
+        {
+          "value": "information asset",
+          "count": "1"
+        },
+        {
+          "value": "Mode switching",
+          "count": "1"
+        },
+        {
+          "value": "Protocols",
+          "count": "1"
+        },
+        {
+          "value": "Resilience",
+          "count": "1"
+        },
+        {
+          "value": "risk analysis",
+          "count": "1"
+        },
+        {
+          "value": "Security",
+          "count": "1"
+        },
+        {
+          "value": "Security Requirement",
+          "count": "1"
+        },
+        {
+          "value": "Security Threat",
+          "count": "1"
+        },
+        {
+          "value": "Software Development Process",
+          "count": "1"
+        },
+        {
+          "value": "State transition",
+          "count": "1"
+        },
+        {
+          "value": "State Transition Diagram",
+          "count": "1"
+        },
+        {
+          "value": "TP 309",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Computational Intelligence and Security",
+          "count": "1"
+        },
+        {
+          "value": "Database and Expert Systems Applications",
+          "count": "1"
+        },
+        {
+          "value": "Wireless Personal Communications",
+          "count": "1"
+        },
+        {
+          "value": "Wuhan University Journal of Natural Sciences",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        },
+        {
+          "value": "2020",
+          "count": "1"
+        },
+        {
+          "value": "2018",
+          "count": "1"
+        },
+        {
+          "value": "2005",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Austria",
+          "count": "1"
+        },
+        {
+          "value": "China",
+          "count": "1"
+        },
+        {
+          "value": "India",
+          "count": "1"
+        },
+        {
+          "value": "South Korea",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "2"
+        },
+        {
+          "value": "Journal",
+          "count": "2"
+        }
+      ]
+    }
+  ]
+}

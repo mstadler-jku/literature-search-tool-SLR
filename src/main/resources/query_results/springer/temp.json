@@ -1,0 +1,2647 @@
+[
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s11277-023-10570-6",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11277-023-10570-6"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11277-023-10570-6"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s11277-023-10570-6"
+      }
+    ],
+    "title": "Development of a Security Education Model System for Cloud Computing and Data Security and Privacy Protection",
+    "creators": [
+      {
+        "creator": "Jia, Rui"
+      },
+      {
+        "creator": "Ni, Xiaoli"
+      },
+      {
+        "creator": "Shao, Xiaoyi"
+      },
+      {
+        "creator": "Zhang, Ting"
+      },
+      {
+        "creator": "Qi, Qunkun"
+      }
+    ],
+    "publicationName": "Wireless Personal Communications",
+    "openaccess": "false",
+    "doi": "10.1007/s11277-023-10570-6",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2023-07-03",
+    "publicationType": "Journal",
+    "issn": "0929-6212",
+    "eIssn": "1572-834X",
+    "volume": "",
+    "number": "",
+    "issueType": "",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "1",
+    "endingPage": "17",
+    "journalId": "11277",
+    "onlineDate": "2023-07-03",
+    "copyright": "©2023 The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature",
+    "abstract": "The great efficiency and dependability of cloud computing enhance the efficiency of mining and analyzing large data in education. Big data in education have been more prevalent in the cloud environment, and the efficiency of data processing has been greatly enhanced, elevating the significance of big data in education and teaching practice. However, the promotion of education big data in the cloud environment has revealed an increasing number of issues. People pay increasing attention to the security of big data in education, i.e., whether big data in education can be safely maintained, retrieved, and utilized in the cloud environment. It focuses on the relationships between education big data producers, users, and cloud service providers. The primary topics of this article are, therefore, how to govern the connections between the three parties, the adoption of stringent technical means, and the establishment of data use guidelines and a regulatory structure. Consequently, this paper investigated the multimodal information fusion technology and the data security model of education in colleges and universities, as well as constructing a cognitive psychological model for education in colleges and universities based on multimodal information fusion and conducting experimental research on it. The research showed that under the cognitive psychology mode of education in colleges and universities based on multi-modal information fusion, the cognitive efficiency of education of students has increased.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Data security",
+      "Multi-modal information fusion",
+      "Psychological model"
+    ],
+    "subjects": [
+      "Engineering",
+      "Communications Engineering, Networks",
+      "Signal,Image and Speech Processing",
+      "Computer Communication Networks"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s11042-022-11993-2",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11042-022-11993-2"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11042-022-11993-2"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s11042-022-11993-2"
+      }
+    ],
+    "title": "Cryptography and Tay-Grey wolf optimization based multimodal biometrics for effective security",
+    "creators": [
+      {
+        "creator": "Arora, Ankit"
+      },
+      {
+        "creator": "Miri, Rohit"
+      }
+    ],
+    "publicationName": "Multimedia Tools and Applications",
+    "openaccess": "false",
+    "doi": "10.1007/s11042-022-11993-2",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2022-12-01",
+    "publicationType": "Journal",
+    "issn": "1380-7501",
+    "eIssn": "1573-7721",
+    "volume": "81",
+    "number": "30",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "44021",
+    "endingPage": "44043",
+    "journalId": "11042",
+    "printDate": "2022-11-28",
+    "onlineDate": "2022-05-31",
+    "coverDate": "2022-12",
+    "copyright": "©2022 The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature",
+    "abstract": "Biometric recognition is very important for automatically recognizing individuals based on feature vectors from behavioral or physiological characteristics. The biometric recognition systems provide suitable personal recognition approaches for determining individuals. Biometrics are broadly employed in several commercial as well as official identification systems for automatic access control. This paper introduces the model for multi-modal biometric recognition based on the feature level fusion method. The overall procedure of the proposed method involves four steps: pre-processing, feature extraction, recognition feature-level fusion, and Bio-metric recognition. The first step is to input the images into pre-processing steps. Thus, pre-processing three traits, like face, finger knuckle, and the hand vein, is done. Then, the feature extraction is done for each modality to extract the features. After that, the feature level fusion is carried out using Elliptic-curve cryptography (ECC) and the proposed Taylor-Grey Wolf optimization (Tay-GWO). After feature fusion, the Bio-metric recognition is done based on Deep Convolutional Neural Network (DCNN), which Tay-GWO trains. The proposed Tay-GWO is designed by integrating the Taylor series and Grey Wolf Optimization (GWO). The analysis shows that the developed model achieves the maximal accuracy of 94.86%, maximal sensitivity of 96.80%, and specificity of 93.74%, respectively.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Multi-modal bio-metric system",
+      "Taylor series",
+      "Grey wolf optimization",
+      "Deep convolutional neural network",
+      "Cryptography"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Multimedia Information Systems",
+      "Computer Communication Networks",
+      "Data Structures and Information Theory",
+      "Special Purpose and Application-Based Systems"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s42835-022-01084-5",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42835-022-01084-5"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s42835-022-01084-5"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s42835-022-01084-5"
+      }
+    ],
+    "title": "Detection and Localization of Coordinated State-and-Topology False Data Injection Attack by Multi-modal Learning",
+    "creators": [
+      {
+        "creator": "Qin, Zhijun"
+      },
+      {
+        "ORCID": "0000-0003-2069-0793",
+        "creator": "Lai, Yu"
+      }
+    ],
+    "publicationName": "Journal of Electrical Engineering & Technology",
+    "openaccess": "false",
+    "doi": "10.1007/s42835-022-01084-5",
+    "publisher": "Springer",
+    "publisherName": "Springer Nature Singapore",
+    "publicationDate": "2022-09-01",
+    "publicationType": "Journal",
+    "issn": "1975-0102",
+    "eIssn": "2093-7423",
+    "volume": "17",
+    "number": "5",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": [
+      "OriginalPaper",
+      "Original Article"
+    ],
+    "startingPage": "2649",
+    "endingPage": "2662",
+    "journalId": "42835",
+    "printDate": "2022-09-09",
+    "onlineDate": "2022-04-11",
+    "coverDate": "2022-09",
+    "copyright": "©2022 The Author(s) under exclusive licence to The Korean Institute of Electrical Engineers",
+    "abstract": "False data injection attack (FDIA) is a typical cyber-attack targeting on power system state estimation. By inserting bias into the power system meter measurements, FDIA can cause errors in state estimation and consequently mislead power system operation. Recently, the coordinated state-and-topology FDIA was developed to falsify both the meter measurements and the topology information to conceal a cyber or physical attack. Conventional machine-learning-based detection methods against FDIA depend on the complete observability of power system topology, therefore cannot detect the coordinated state-and-topology FDIA. To address this challenge, we propose a multi-modal learning model based on Graph Auto-Encoder (GAE) and Residual Neural Networks (ResNet) to detect this type of FDIA. First, GAE is used to learn the compact representation of power system topologies. Then, the obtained topological representation is fused with the measurement to obtain the multi-modal features. Third, ResNet is trained as a multi-label classifier to accept the fused features and generate an array, which can detect attack scenarios and identify the falsified measurements/topologies by coordinated attacks. Comprehensive case studies using IEEE 9-bus, IEEE 57-bus, and IEEE 118-bus systems are presented. The simulation results show that, as compared to single feature methods, the proposed method is more effective in detecting coordinated state-and-topology attacks, and more robust in case of FDIA under unseen topological changes in power system operation.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Power system cyber security",
+      "False data injection attack",
+      "Topology attack",
+      "Multi-modal learning",
+      "Data-driven methods"
+    ],
+    "subjects": [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics and Microelectronics, Instrumentation",
+      "Power Electronics, Electrical Machines and Networks"
+    ]
+  },
+  {
+    "contentType": "Chapter",
+    "identifier": "doi:10.1007/978-3-030-79766-9_1",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-79766-9_1"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-79766-9_1"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-030-79766-9_1"
+      }
+    ],
+    "title": "Security Challenges in 5G and IoT Networks: A Review",
+    "creators": [
+      {
+        "creator": "Kumar, G. Edwin Prem"
+      },
+      {
+        "creator": "Lydia, M."
+      },
+      {
+        "creator": "Levron, Yoash"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Velliangiri, S"
+      },
+      {
+        "bookEditor": "Gunasekaran, M"
+      },
+      {
+        "bookEditor": "Karthikeyan, P"
+      }
+    ],
+    "publicationName": "Secure Communication for 5G and IoT Networks",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-030-79766-9_1",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2022-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-030-79765-2",
+    "electronicIsbn": "978-3-030-79766-9",
+    "isbn": "978-3-030-79765-2",
+    "genre": "OriginalPaper Contributed volume",
+    "onlineDate": "2021-10-29",
+    "seriesId": "15427",
+    "copyright": "©2022 Springer Nature Switzerland AG",
+    "abstract": "5G networks are poised to satisfy the anticipated growth in Internet of Technology (IoT) devices and their related systems. The invasion of 5G networks brings along with it an accelerated need for security and privacy. The need for tailor-made security solutions has become the need of the hour to ensure data integrity, confidentiality, and authentication in 5G-based IoT networks. Since IoT initiates sensors and actuators in a totally smart environment, IoT security will involve protecting the total deployment architecture of IoT from internal and external attacks. Integration of cryptographical algorithms and quantum cryptography has been used effectively to secure data in 5G networks. Privacy and identity management has been a mandatory requirement in networks carrying delicate data involved in retail shops, traffic services, and health monitoring systems. Securing data in 5G and IoT networks and detection of trustworthy and rogue nodes, proper monitoring, logging, and broadcasting are the vital necessities of any security system. The exhaustive survey on the security issues in the 5G-IoT scenario, highlights the application of the latest technologies, incorporation of hybrid methodologies in securing them, and also emphasizes on the open issues yet to be addressed and research challenges that are to be explored.",
+    "conferenceInfo": [],
+    "keyword": [
+      "5G networks",
+      "Blockchain",
+      "Deep learning",
+      "Internet of Things",
+      "Monitoring",
+      "Security",
+      "Authentication",
+      "Access control",
+      "Machine learning",
+      "Bigdata",
+      "Software defined network",
+      "Virtualization",
+      "Unmanned aerial vehicles",
+      "Vehicular ad-hoc networks",
+      "Adaptive security",
+      "Artificial intelligences",
+      "Cryptographic"
+    ],
+    "subjects": [
+      "Engineering",
+      "Cyber-physical systems, IoT",
+      "Communications Engineering, Networks",
+      "Computer Applications",
+      "Energy Policy, Economics and Management"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-981-16-5857-0_82",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-16-5857-0_82"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-981-16-5857-0_82"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-981-16-5857-0_82"
+      }
+    ],
+    "title": "Power Grid Adaptive Security Defense System Based on Artificial Intelligence",
+    "creators": [
+      {
+        "creator": "Yan, Lijing"
+      },
+      {
+        "creator": "Gao, Feng"
+      },
+      {
+        "creator": "Song, Yifan"
+      },
+      {
+        "creator": "Liang, Huichao"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "J. Jansen, Bernard"
+      },
+      {
+        "bookEditor": "Liang, Haibo"
+      },
+      {
+        "bookEditor": "Ye, Jun"
+      }
+    ],
+    "publicationName": "International Conference on Cognitive based Information Processing and Applications (CIPA 2021)",
+    "openaccess": "false",
+    "doi": "10.1007/978-981-16-5857-0_82",
+    "publisher": "Springer",
+    "publisherName": "Springer Singapore",
+    "publicationDate": "2022-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-981-16-5856-3",
+    "electronicIsbn": "978-981-16-5857-0",
+    "isbn": "978-981-16-5856-3",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2021-09-27",
+    "seriesId": "15362",
+    "copyright": "©2022 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.",
+    "abstract": "With the increasing production safety requirements of national grid companies, grid enterprises should break away from the traditional safety management model and form a more accurate grid adaptation safety management system. The goal of security defense is the safety accident prevention and prediction power grid enterprises, and implementation measures are put forward and eliminate the potential risk of physical, environmental and safety equipment. Security defense plays a key role in predetermining and controlling risks. This paper mainly studies and analyzes the adaptive security defense system of power grid based on the background of artificial intelligence. Firstly, the significance of power grid adaptive security defense system and the influence of artificial intelligence on power grid adaptive security defense system are expounded. Then it will discuss the method of adaptive security defense system for power grid under the background of artificial intelligence. Finally, the application status of the adaptive security defense system for power grid based on artificial intelligence is investigated, questionnaires are issued, and data are collected and processed. The survey results show that the probability of lightning and typhoon to the artificial intelligence defense system causing equipment failure accounts for 37% respectively, which will enable the power grid adaptive security defense system to operate risk prevention in real time. The influence of network information on the adaptive security defense system of power grid based on artificial intelligence will reach the peak with the perfection of information data and defense system, and then decline.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Artificial intelligence",
+      "Security defense",
+      "Defense system"
+    ],
+    "subjects": [
+      "Engineering",
+      "Computational Intelligence",
+      "Pattern Recognition",
+      "Mathematical Models of Cognitive Processes and Neural Networks"
+    ]
+  },
+  {
+    "contentType": "Chapter",
+    "identifier": "doi:10.1007/978-3-030-88559-5_3",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-88559-5_3"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-88559-5_3"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-030-88559-5_3"
+      }
+    ],
+    "title": "Taxonomy of Cyber Threats",
+    "creators": [
+      {
+        "creator": "Couretas, Jerry M."
+      }
+    ],
+    "bookEditors": [],
+    "publicationName": "An Introduction to Cyber Analysis and Targeting",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-030-88559-5_3",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2022-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-030-88558-8",
+    "electronicIsbn": "978-3-030-88559-5",
+    "isbn": "978-3-030-88558-8",
+    "genre": "OriginalPaper Professional book",
+    "onlineDate": "2022-01-19",
+    "copyright": "©2022 Springer Nature Switzerland AG",
+    "abstract": "Cyber threats span the attack cycle, and include both offensive and defensive elements. Several conceptual models help with describing the attack process and associated entities, in developing a taxonomy of cyber threats. For Example, the US National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) helps to describe a system to manage cyber security risk. In addition, the Structured Threat Information Expression (STIX) and the Trusted Automated eXchange of Indicator Information (TAXII) are used to standardize indicator information into a form that will make the data sharable. This helps to structure the cyber threat intelligence (CTI) information in order to use it in defensive approaches (e.g., DREAD: damage/reproducibility/exploitability/affected users/discoverability; STRIDE: spoofing/tampering/repudiation/information disclosure/denial of service/elevation of privilege; CVSS: Common Vulnerability Scoring System) along with more advanced approaches that emulate offensive steps. Sharing cyber data is performed by government agencies (e.g., US Department of Homeland Security) along with information analysis centers (e.g., Multi-State Information Sharing and Analysis Center [MS-ISAC]). In addition to managing known threat data across an attack process, threat evaluation is performed via methodological evaluation of system-level vulnerabilities using model/architecture descriptions (e.g., system modeling language [SysML]) and rolling up developing threat descriptions through techniques like the US Department of Defense (DoD) Cyber Analytics Repository (DoDCAR).",
+    "conferenceInfo": [],
+    "keyword": [
+      "Risk bow-tie",
+      "Confidentiality",
+      "integrity",
+      "availability (CIA)",
+      "NIST Cybersecurity Framework (CSF)",
+      "Computer security control (CSC)",
+      "DoD Cyber Analytics Repository (DoDCAR)",
+      "Trusted Automated eXchange of Indicator Information (TAXII)",
+      "Common Vulnerability Scoring System (CVSS)",
+      "Australian Signal Directorate Essential 8",
+      "Cyber Threat Framework (CTF)",
+      "Damage/reproducibility/exploitability/affected users/discoverability (DREAD)",
+      "Spoofing/tampering/repudiation/information disclosure/denial of service/elevation of privilege (STRIDE)",
+      "Security Incident and Event Management (SIEM)",
+      "Automated Computer Network Defense (Canada DRDC) (ARMOUR)",
+      "Process for Attack Simulation and Threat Analysis (PASTA)",
+      "Multi-State Information Sharing and Analysis Center (MS-ISAC)",
+      "Cyber threat intelligence (CTI)"
+    ],
+    "subjects": [
+      "Engineering",
+      "Cyber-physical systems, IoT",
+      "Signal, Image and Speech Processing",
+      "Communications Engineering, Networks"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-981-19-6142-7_38",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-19-6142-7_38"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-981-19-6142-7_38"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-981-19-6142-7_38"
+      }
+    ],
+    "title": "Observer-Based Adaptive Security Control for Network Control Systems Under TDS Actuator Attacks",
+    "creators": [
+      {
+        "ORCID": "0000-0003-0703-2577",
+        "creator": "Wang, Liang"
+      },
+      {
+        "ORCID": "0000-0002-3114-4598",
+        "creator": "Zhao, Ping"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Zhang, Haijun"
+      },
+      {
+        "bookEditor": "Chen, Yuehui"
+      },
+      {
+        "bookEditor": "Chu, Xianghua"
+      },
+      {
+        "bookEditor": "Zhang, Zhao"
+      },
+      {
+        "bookEditor": "Hao, Tianyong"
+      },
+      {
+        "bookEditor": "Wu, Zhou"
+      },
+      {
+        "bookEditor": "Yang, Yimin"
+      }
+    ],
+    "publicationName": "Neural Computing for Advanced Applications",
+    "openaccess": "false",
+    "doi": "10.1007/978-981-19-6142-7_38",
+    "publisher": "Springer",
+    "publisherName": "Springer Nature Singapore",
+    "publicationDate": "2022-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-981-19-6141-0",
+    "electronicIsbn": "978-981-19-6142-7",
+    "isbn": "978-981-19-6141-0",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2022-10-21",
+    "seriesId": "7899",
+    "copyright": "©2022 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.",
+    "abstract": "Networked control systems (NCS) have been used widely in many practical fields. The communication connection in NCS allows agents to communicate with each other quickly, which can quickly respond to abrupt changes in the system. NCS depend on computers and multi-purpose networks for operation, rendering them vulnerable to attacks, especially cyber attacks. This paper focuses on time delay switch (TDS) attacks. A method based on Lyapunov theory is proposed to detect and estimate TDS attack in real time, so as to detect the unstable impact of TDS attack and recover from it. Simulation results illustrate the effectiveness of the proposed TDS attack estimator and security control strategy.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Neural Computing for Advanced Applications",
+        "confSeriesID": {
+          "type": "Springer",
+          "value": "ncaa"
+        },
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "ncaa2022"
+          }
+        ],
+        "confEventAbbreviation": "NCAA",
+        "confNumber": "3",
+        "confEventLocation": [
+          {
+            "locationType": "InPerson",
+            "city": "Jinan",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2022",
+            "month": "07",
+            "day": "08"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2022",
+            "month": "07",
+            "day": "10"
+          }
+        ],
+        "confEventURL": "http://dl2link.com/ncaa2022/",
+        "confEventPeerReviewInformation": {
+          "averageNumberOfPapersPerReviewer": "3.68",
+          "averageNumberOfReviewsPerPaper": "3.09",
+          "externalReviewersInvolved": "No",
+          "fullPapersAcceptanceRate": "38",
+          "fullPapersAccepted": "77",
+          "managementSystem": "easychair",
+          "shortPapersAccepted": "0",
+          "submissionsSentForReview": "205",
+          "type": "Double-blind"
+        }
+      }
+    ],
+    "keyword": [
+      "Networked control systems",
+      "Adaptive control design",
+      "Time-delay switch attack",
+      "Luenberger observer"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Numeric Computing",
+      "Computer Imaging, Vision, Pattern Recognition and Graphics",
+      "Information Systems and Communication Service",
+      "Computer Communication Networks",
+      "Computer Appl. in Social and Behavioral Sciences"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-981-15-8752-8_61",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-15-8752-8_61"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-981-15-8752-8_61"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-981-15-8752-8_61"
+      }
+    ],
+    "title": "Classification and Mapping of Adaptive Security for Mobile Computing",
+    "creators": [
+      {
+        "creator": "Refonaa, J."
+      },
+      {
+        "creator": "Jany Shabu, S. L."
+      },
+      {
+        "creator": "Dhamodaran, S."
+      },
+      {
+        "creator": "Mythili, Battula"
+      },
+      {
+        "creator": "Vineetha, Bikki"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Mallick, Pradeep Kumar"
+      },
+      {
+        "bookEditor": "Bhoi, Akash Kumar"
+      },
+      {
+        "bookEditor": "Chae, Gyoo-Soo"
+      },
+      {
+        "bookEditor": "Kalita, Kanak"
+      }
+    ],
+    "publicationName": "Advances in Electronics, Communication and Computing",
+    "openaccess": "false",
+    "doi": "10.1007/978-981-15-8752-8_61",
+    "publisher": "Springer",
+    "publisherName": "Springer Nature Singapore",
+    "publicationDate": "2021-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-981-15-8751-1",
+    "electronicIsbn": "978-981-15-8752-8",
+    "isbn": "978-981-15-8751-1",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2021-01-29",
+    "seriesId": "7818",
+    "copyright": "©2021 Springer Nature Singapore Pte Ltd.",
+    "abstract": "Within the paper, we examine how to place mobile phones on behalf of permitting correspondences in a fiasco reconvert via connecting the holes amid different types of isolated system. We include structured as well as actualized android applications. In this application, we use this to convey to other colleagues simple to approach to impart utilizing distributed storage; in this module, client transfer the catastrophe area and other client will see the calamity area and get the specific area in map. It sees and gives cell phones the capacities of interchanges in misfortune recuperation such a assembling of mobile phones. This will be able to cooperatively stir up and about in addition to express disaster communication during a energy industrious method through their locale in addition to location information during sort in the direction of assist salvage activities. This application will likewise give the close by clinics and fire station and police headquarters. We group telephone numbers as a replica function so that it can take over the advanced android cells. Exploratory outcomes exhibit that group telephone can suitably assure association necessity besides extraordinarily support salvage activities during misfortune healing.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Emerging Trends and Advances in Electrical Engineering and Renewable Energy",
+        "confSeriesID": {
+          "type": "Springer",
+          "value": "etaeere"
+        },
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "etaeere2020a"
+          }
+        ],
+        "confEventAbbreviation": "ETAEERE",
+        "confEventLocation": [
+          {
+            "locationType": "Virtual"
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2020",
+            "month": "03",
+            "day": "05"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2020",
+            "month": "03",
+            "day": "06"
+          }
+        ],
+        "confEventURL": "https://kiit.ac.in/event/international-conference-on-emerging-trends-and-advances-in-electrical-engineering-and-renewable-energy-etaeere-2020/"
+      }
+    ],
+    "keyword": [
+      "Autonomous computing",
+      "Security",
+      "Software engineering proof",
+      "Mapping research",
+      "Mobile computing"
+    ],
+    "subjects": [
+      "Engineering",
+      "Electronics and Microelectronics, Instrumentation",
+      "Communications Engineering, Networks",
+      "Computational Intelligence",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-030-74811-1_128",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-74811-1_128"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-74811-1_128"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-030-74811-1_128"
+      }
+    ],
+    "title": "Virtual Simulation and Multi-modal Informatics for Public Security Education",
+    "creators": [
+      {
+        "creator": "He, Yang"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Sugumaran, Vijayan"
+      },
+      {
+        "bookEditor": "Xu, Zheng"
+      },
+      {
+        "bookEditor": "Zhou, Huiyu"
+      }
+    ],
+    "publicationName": "Application of Intelligent Systems in Multi-modal Information Analytics",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-030-74811-1_128",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2021-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-030-74810-4",
+    "electronicIsbn": "978-3-030-74811-1",
+    "isbn": "978-3-030-74810-4",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2021-04-21",
+    "seriesId": "11156",
+    "copyright": "©2021 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+    "abstract": "To analyze and study It is not only used in engineering field, but also widely used in non engineering field. In public security education I training, such as shooting training, driving training, scene investigation and other teaching, the application of simulation technology can not only improve the training efficiency, reduce the training time, is not restricted by the environment and climate, but also has outstanding effect on ensuring safety, saving expenses and improving quality.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Application of Intelligent Systems in Multi-modal Information Analytics ",
+        "confSeriesID": {
+          "type": "Springer",
+          "value": "mmia"
+        },
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "mmia2021"
+          }
+        ],
+        "confEventAbbreviation": "MMIA",
+        "confEventLocation": [
+          {
+            "locationType": "InPerson",
+            "city": "Huhehaote",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2021",
+            "month": "04",
+            "day": "23"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2021",
+            "month": "04",
+            "day": "24"
+          }
+        ],
+        "confEventURL": "http://mmia2021.com.cn/"
+      }
+    ],
+    "keyword": [
+      "Simulation technology",
+      "Scientific system",
+      "Police training"
+    ],
+    "subjects": [
+      "Engineering",
+      "Computational Intelligence",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s41870-020-00501-0",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s41870-020-00501-0"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s41870-020-00501-0"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s41870-020-00501-0"
+      }
+    ],
+    "title": "Multi-modal biometric system using finger knuckle image and retina image with template security using PolyU and DRIVE database",
+    "creators": [
+      {
+        "ORCID": "0000-0002-0281-9752",
+        "creator": "Patil, Pratap"
+      },
+      {
+        "creator": "Jagtap, Sudhir"
+      }
+    ],
+    "publicationName": "International Journal of Information Technology",
+    "openaccess": "false",
+    "doi": "10.1007/s41870-020-00501-0",
+    "publisher": "Springer",
+    "publisherName": "Springer Singapore",
+    "publicationDate": "2020-12-01",
+    "publicationType": "Journal",
+    "issn": "2511-2104",
+    "eIssn": "2511-2112",
+    "volume": "12",
+    "number": "4",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": [
+      "OriginalPaper",
+      "Original Research"
+    ],
+    "startingPage": "1043",
+    "endingPage": "1050",
+    "journalId": "41870",
+    "printDate": "2020-10-23",
+    "onlineDate": "2020-07-21",
+    "coverDate": "2020-12",
+    "copyright": "©2020 Bharati Vidyapeeth's Institute of Computer Applications and Management",
+    "abstract": "A wide variety of security applications like computers, laptops, mobile phones, ATM machines, physical access control to property etc. are using biometrics based system for human identification. Today’s Biometrics authentication system can provide highest level of security to the user of the service and the service providers. Today’s uni-modal biometric systems has become mature system and being used for low level to medium level security applications. But, for extremely higher level of security requirements like military base, nuclear plants, research laboratories etc., Finger knuckle image and Retina image based combination can be used, as this combinations provides the highest level of accuracy, low error rates, universality etc. Also the security of Multi-modal biometric templates is very importance as biometric template store vital information of the user. In this research work, Multi-modal Biometric system for higher level security using Finger Knuckle image and Retina image with templates security is developed, experiments are carried out and results are calculated using PolyU database for Finger Knuckle image and DRIVE for Retina images. A Finger Knuckle Image processing starts with Median Filtering, CLAHE method and Canny edge detection. The features extraction is carried using SURF feature method. Once the finger knuckle image template is generated, it is encrypted using RSA algorithm and stored in database. The Retina Image Processing is carried out by applying Green channel followed by Gaussian filtering, CLAHE method is applied on outcome of Gaussian filtering. SURF features set is extracted from retina ROI. Retina image template is generated which is later encrypted using RSA algorithm. The final experiment shows that genuine acceptance rate = 100% is achieved for threshold value 0.35 and False Acceptance Rate is only 1%. The scientific contribution of proposed research work is a multi-biometric system with higher accuracy (GAR is 100%), low error rate (FAR is 1%), better template protection by RSA encryption and efficient hybrid model using finger knuckle image and retina image.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Multi-modal biometric",
+      "Biometric template security",
+      "Finger knuckle image",
+      "Retina image",
+      "PolyU database",
+      "DRIVE database"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Computer Science, general",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Image Processing and Computer Vision",
+      "Software Engineering",
+      "Computer Imaging, Vision, Pattern Recognition and Graphics"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-030-39445-5_45",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-39445-5_45"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-39445-5_45"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-030-39445-5_45"
+      }
+    ],
+    "title": "An Adaptive Security Architecture for Detecting Ransomware Attack Using Open Source Software",
+    "creators": [
+      {
+        "creator": "Caliaberah, Prya Booshan"
+      },
+      {
+        "creator": "Armoogum, Sandhya"
+      },
+      {
+        "creator": "Li, Xiaoming"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Arai, Kohei"
+      },
+      {
+        "bookEditor": "Kapoor, Supriya"
+      },
+      {
+        "bookEditor": "Bhatia, Rahul"
+      }
+    ],
+    "publicationName": "Advances in Information and Communication",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-030-39445-5_45",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2020-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-030-39444-8",
+    "electronicIsbn": "978-3-030-39445-5",
+    "isbn": "978-3-030-39444-8",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2020-02-25",
+    "seriesId": "11156",
+    "copyright": "©2020 Springer Nature Switzerland AG",
+    "abstract": "Ransomware is a serious security threat faced by organizations and individuals today, and ransomware attacks are on the increase. There is no infallible solution for protecting against ransomware as the malware code uses metamorphic and polymorphic algorithms to generate different versions thus evading signature detection. Ransomware also uses domain generator algorithms (DGA) to generate new domains for the command and control server (C&C), they constantly exploit new vulnerabilities, and they use various infection vectors. Thus, for an organization to protect itself, an adaptive security architecture is required to constantly monitor the network so as to detect new ransomware infection at an early stage such that it can be blocked before encryption of files occur. This approach is a defence in depth approach which supplements the network defences such as patch management, anti-virus software, intrusion detection, firewalls, and content filtering. A framework for the implementation of the adaptive security architecture model using open source software is presented and the proposed framework is tested against the WannaCry and Petya ransomware. The proposed framework was successfully able to alert of the ransomware attack and by the use of the AppLocker feature on Windows, it was even possible to prevent the Petya ransomware from executing on the victim host.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "Future of Information and Communication Conference",
+        "confSeriesID": {
+          "type": "Springer",
+          "value": "ficc"
+        },
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "ficc2020"
+          }
+        ],
+        "confEventAbbreviation": "FICC",
+        "confEventLocation": [
+          {
+            "city": "San Francisco, CA, CA",
+            "country": [
+              {
+                "code": "US",
+                "value": "USA"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2020",
+            "month": "03",
+            "day": "05"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2020",
+            "month": "03",
+            "day": "06"
+          }
+        ],
+        "confEventURL": "https://saiconference.com/FICC"
+      }
+    ],
+    "keyword": [
+      "Ransomware",
+      "Adaptive Security Architecture (ASA)",
+      "Monitoring",
+      "WannaCry",
+      "Petya",
+      "Snort",
+      "OSSEC",
+      "AppLocker"
+    ],
+    "subjects": [
+      "Engineering",
+      "Computational Intelligence",
+      "Communications Engineering, Networks"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s11036-019-01355-y",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11036-019-01355-y"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11036-019-01355-y"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s11036-019-01355-y"
+      }
+    ],
+    "title": "Adaptive Security for Self-Protection of Mobile Computing Devices",
+    "creators": [
+      {
+        "creator": "Ahmad, Aakash"
+      },
+      {
+        "creator": "Malik, Asad Waqar"
+      },
+      {
+        "creator": "Alreshidi, Abdulrahman"
+      },
+      {
+        "creator": "Khan, Wilayat"
+      },
+      {
+        "creator": "Sajjad, Maryam"
+      }
+    ],
+    "publicationName": "Mobile Networks and Applications",
+    "openaccess": "false",
+    "doi": "10.1007/s11036-019-01355-y",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2019-09-05",
+    "publicationType": "Journal",
+    "issn": "1383-469X",
+    "eIssn": "1572-8153",
+    "volume": "",
+    "number": "",
+    "issueType": "",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "1",
+    "endingPage": "20",
+    "journalId": "11036",
+    "onlineDate": "2019-09-05",
+    "copyright": "©2019 Springer Science+Business Media, LLC, part of Springer Nature",
+    "abstract": "Mobile computing has emerged as a pervasive technology that empowers its users with portable computation and context-aware communication. Smart systems and infrastructures can exploit portable and context-aware computing technologies to provide any time, any place digitized services on the go. Despite the offered benefits, such as portability, context-sensitivity, and high connectivity, mobile computing also faces some critical challenges. These challenges include resource poverty as well as data security and privacy that need to be addressed to increase the pervasiveness of mobile systems. We propose to provide a self-protection mechanism for mobile devices against the unforeseen security threats that can attack the critical resources of mobile devices. We have unified the concepts of autonomic computing and computer security to develop a framework that enables adaptive security to dynamically configure the security measures of a mobile device. We have developed a framework - an android-based prototype - that supports automation and user decision to protect the critical hardware and software resources of a device. Evaluation results demonstrate (i) framework’s accuracy for runtime detection and minimization of threats, and (ii) framework’s efficiency for device’s resource utilization.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Context-aware computing",
+      "Secure mobile systems",
+      "Adaptive security",
+      "Software engineering",
+      "Smart systems"
+    ],
+    "subjects": [
+      "Engineering",
+      "Communications Engineering, Networks",
+      "Computer Communication Networks",
+      "Electrical Engineering",
+      "IT in Business"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-981-10-1627-1_51",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-10-1627-1_51"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-981-10-1627-1_51"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-981-10-1627-1_51"
+      }
+    ],
+    "title": "A New Adaptative Security Protocol for UAV Network",
+    "creators": [
+      {
+        "creator": "Zouhri, Oumhany"
+      },
+      {
+        "creator": "Benhadou, Siham"
+      },
+      {
+        "creator": "Medromi, Hicham"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "El-Azouzi, Rachid"
+      },
+      {
+        "bookEditor": "Menasche, Daniel Sadoc"
+      },
+      {
+        "bookEditor": "Sabir, Essaïd"
+      },
+      {
+        "bookEditor": "De Pellegrini, Francesco"
+      },
+      {
+        "bookEditor": "Benjillali, Mustapha"
+      }
+    ],
+    "publicationName": "Advances in Ubiquitous Networking 2",
+    "openaccess": "false",
+    "doi": "10.1007/978-981-10-1627-1_51",
+    "publisher": "Springer",
+    "publisherName": "Springer Singapore",
+    "publicationDate": "2017-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-981-10-1626-4",
+    "electronicIsbn": "978-981-10-1627-1",
+    "isbn": "978-981-10-1626-4",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2016-11-04",
+    "seriesId": "7818",
+    "copyright": "©2017 Springer Science+Business Media Singapore",
+    "abstract": "An Unmanned Aerial Vehicle (UAV) is a pilotless aerial vehicle which can be controlled either autonomously by onboard computers or remotely controlled by a pilot at the Ground Control Station (GCS). UAV and Ground Control Station (GCS) define a new form network, this kind of network persuade some specific characteristics as sufficient energy, network connectivity, mobility and network security. These specifications persuade difficult challenges for building a trustworthy and secure communication architecture solution. In this paper we present our new secure communication protocol taking into account the specifications of UAV network. This new architecture depends mostly on the definition of a secure protocol which provides authentication, confidentiality and integrity, in preserving network resources for effective data exchanged between UAV and GCS.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Symposium on Ubiquitous Networking",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "unet"
+          },
+          {
+            "type": "DBLP",
+            "value": "unet"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "unet2016"
+          }
+        ],
+        "confEventAbbreviation": "UNet",
+        "confNumber": "2",
+        "confEventLocation": [
+          {
+            "city": "Casablanca",
+            "country": [
+              {
+                "code": "MA",
+                "value": "Morocco"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2016",
+            "month": "05",
+            "day": "30"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2016",
+            "month": "06",
+            "day": "01"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Security architecture",
+      "Security protocol",
+      "Cryptography",
+      "UAV system"
+    ],
+    "subjects": [
+      "Engineering",
+      "Communications Engineering, Networks",
+      "Computer Communication Networks"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s10515-013-0133-z",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10515-013-0133-z"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s10515-013-0133-z"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s10515-013-0133-z"
+      }
+    ],
+    "title": "Adaptable, model-driven security engineering for SaaS cloud-based applications",
+    "creators": [
+      {
+        "creator": "Almorsy, Mohamed"
+      },
+      {
+        "creator": "Grundy, John"
+      },
+      {
+        "creator": "Ibrahim, Amani S."
+      }
+    ],
+    "publicationName": "Automated Software Engineering",
+    "openaccess": "false",
+    "doi": "10.1007/s10515-013-0133-z",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2014-04-01",
+    "publicationType": "Journal",
+    "issn": "0928-8910",
+    "eIssn": "1573-7535",
+    "volume": "21",
+    "number": "2",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "187",
+    "endingPage": "224",
+    "journalId": "10515",
+    "printDate": "2014-03-21",
+    "onlineDate": "2013-09-18",
+    "coverDate": "2014-04",
+    "copyright": "©2013 Springer Science+Business Media New York",
+    "abstract": "Software-as-a-service (SaaS) multi-tenancy in cloud-based applications helps service providers to save cost, improve resource utilization, and reduce service customization and maintenance time. This is achieved by sharing of resources and service instances among multiple “tenants” of the cloud-hosted application. However, supporting multi-tenancy adds more complexity to SaaS applications required capabilities. Security is one of these key requirements that must be addressed when engineering multi-tenant SaaS applications. The sharing of resources among tenants—i.e. multi-tenancy—increases tenants’ concerns about the security of their cloud-hosted assets. Compounding this, existing traditional security engineering approaches do not fit well with the multi-tenancy application model where tenants and their security requirements often emerge after the applications and services were first developed. The resultant applications do not usually support diverse security capabilities based on different tenants’ needs, some of which may change at run-time i.e. after cloud application deployment. We introduce a novel model-driven security engineering approach for multi-tenant, cloud-hosted SaaS applications. Our approach is based on externalizing security from the underlying SaaS application, allowing both application/service and security to evolve at runtime. Multiple security sets can be enforced on the same application instance based on different tenants’ security requirements. We use abstract models to capture service provider and multiple tenants’ security requirements and then generate security integration and configurations at runtime. We use dependency injection and dynamic weaving via Aspect-Oriented Programming (AOP) to integrate security within critical application/service entities at runtime. We explain our approach, architecture and implementation details, discuss a usage example, and present an evaluation of our approach on a set of open source web applications.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Software-as-a-service",
+      "Model-driven engineering",
+      "Adaptive-security",
+      "Security engineering",
+      "Tenant-oriented security"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Software Engineering/Programming and Operating Systems"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-319-12087-4_8",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-319-12087-4_8"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-319-12087-4_8"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-319-12087-4_8"
+      }
+    ],
+    "title": "EAdroid: Providing Environment Adaptive Security for Android System",
+    "creators": [
+      {
+        "creator": "Liang, Hongliang"
+      },
+      {
+        "creator": "Dong, Yu"
+      },
+      {
+        "creator": "Wang, Bin"
+      },
+      {
+        "creator": "Liu, Shuchang"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Lin, Dongdai"
+      },
+      {
+        "bookEditor": "Xu, Shouhuai"
+      },
+      {
+        "bookEditor": "Yung, Moti"
+      }
+    ],
+    "publicationName": "Information Security and Cryptology",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-319-12087-4_8",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2014-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-319-12086-7",
+    "electronicIsbn": "978-3-319-12087-4",
+    "isbn": "978-3-319-12086-7",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2014-10-25",
+    "seriesId": "558",
+    "copyright": "©2014 Springer International Publishing Switzerland",
+    "abstract": "With the rapid popularization of Android system around the world, of the increase in Android malwares post serious threats to the security of users’ Android device and the privacy stored in it. At the same time, many trusted third party institutions (such as military, government institutions) need to customize the security policy of their Android devices according to their regulations, but most of them do not have this capability. This paper proposed an environment adaptive security mechanism for Android platform called EAdroid, which providing a simple way for trusted third party institutions to customize the security policy of their Android devices. EAdroid reforms the framework layer of Android system and synthetically applies Smack security module of Linux. At the same time, the security rules of framework layer and kernel layer in EAdroid can adapt to the current environment context. Series of tests show that EAdroid can efficiently protect the security of user’s devices and privacy with negligible overhead of performance.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Information Security and Cryptology",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "cisc"
+          },
+          {
+            "type": "DBLP",
+            "value": "cisc"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "cisc2013"
+          }
+        ],
+        "confEventAbbreviation": "Inscrypt",
+        "confNumber": "9",
+        "confEventLocation": [
+          {
+            "city": "Guangzhou",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "27"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "30"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Environment adaptive",
+      "Security",
+      "Android system",
+      "Access control"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Systems and Data Security",
+      "Cryptology",
+      "Coding and Information Theory",
+      "Algorithm Analysis and Problem Complexity"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-319-04873-4_10",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-319-04873-4_10"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-319-04873-4_10"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-319-04873-4_10"
+      }
+    ],
+    "title": "Revocable IBE Systems with Almost Constant-Size Key Update",
+    "creators": [
+      {
+        "creator": "Su, Le"
+      },
+      {
+        "creator": "Lim, Hoon Wei"
+      },
+      {
+        "creator": "Ling, San"
+      },
+      {
+        "creator": "Wang, Huaxiong"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Cao, Zhenfu"
+      },
+      {
+        "bookEditor": "Zhang, Fangguo"
+      }
+    ],
+    "publicationName": "Pairing-Based Cryptography – Pairing 2013",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-319-04873-4_10",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2014-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-319-04872-7",
+    "electronicIsbn": "978-3-319-04873-4",
+    "isbn": "978-3-319-04872-7",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2014 Springer International Publishing Switzerland",
+    "abstract": "Identity-based encryption (IBE) has been regarded as an attractive alternative to more conventional certificate-based public key systems. It has recently attracted not only considerable research from the academic community, but also interest from the industry and standardization bodies. However, while key revocation is a fundamental requirement to any public key systems, not much work has been done in the identity-based setting. In this paper, we continue the study of revocable IBE (RIBE) initiated by Boldyreva, Goyal, and Kumar. Their proposal of a selective secure RIBE scheme, and a subsequent construction by Libert and Vergnaud in a stronger adaptive security model are based on a binary tree approach, such that their key update size is logarithmic in the number of users. In this paper, we show that the key update size could be further reduced to constant with some small amount of auxiliary information, through a novel combination of the Lewko and Waters IBE scheme and the Camenisch, Kohlweiss, and Soriente pairing-based dynamic accumulator.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Pairing-Based Cryptography",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "pairing"
+          },
+          {
+            "type": "DBLP",
+            "value": "pairing"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "pairing2013"
+          }
+        ],
+        "confEventAbbreviation": "Pairing",
+        "confNumber": "6",
+        "confEventLocation": [
+          {
+            "city": "Beijing",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "22"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "24"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "public-key cryptography",
+      "identity-based encryption",
+      "revocation",
+      "accumulator",
+      "adaptive security"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Cryptology",
+      "Systems and Data Security",
+      "Coding and Information Theory",
+      "Theory of Computation"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-319-03584-0_19",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-319-03584-0_19"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-319-03584-0_19"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-319-03584-0_19"
+      }
+    ],
+    "title": "Anonymous Identity-Based Broadcast Encryption with Adaptive Security",
+    "creators": [
+      {
+        "creator": "Zhang, Leyou"
+      },
+      {
+        "creator": "Wu, Qing"
+      },
+      {
+        "creator": "Mu, Yi"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Wang, Guojun"
+      },
+      {
+        "bookEditor": "Ray, Indrakshi"
+      },
+      {
+        "bookEditor": "Feng, Dengguo"
+      },
+      {
+        "bookEditor": "Rajarajan, Muttukrishnan"
+      }
+    ],
+    "publicationName": "Cyberspace Safety and Security",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-319-03584-0_19",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2013-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-319-03583-3",
+    "electronicIsbn": "978-3-319-03584-0",
+    "isbn": "978-3-319-03583-3",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2013 Springer International Publishing Switzerland",
+    "abstract": "Anonymous identity-based encryption(IBE) can be used to build Public-Key Encryption with Keyword Search. But no efficient previous works in the identity-based broadcast encryption are known. In this paper, we extend the anonymous IBE definition to the identity-based broadcast encryption. Then a new construction of anonymous identity-based broadcast encryption is proposed in the standard model. In the new construction, the ciphertexts and private keys are indistinguishable for the different receivers set. The proposed scheme has constant size ciphertexts and achieves adaptive security. In addition, the security of the proposed scheme is reduced to the static assumptions in a composite group.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Symposium on Cyberspace Safety and Security",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "css"
+          },
+          {
+            "type": "DBLP",
+            "value": "css"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "css2013"
+          }
+        ],
+        "confEventAbbreviation": "CSS",
+        "confNumber": "5",
+        "confEventLocation": [
+          {
+            "city": "Zhangjiajle",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "13"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2013",
+            "month": "11",
+            "day": "15"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Identity-based encryption",
+      "anonymous identity-based broadcast encryption",
+      "dual system encryption",
+      "static assumptions",
+      "standard model"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Systems and Data Security",
+      "Computer Communication Networks",
+      "Cryptology",
+      "Computers and Society"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-642-28166-2_12",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-642-28166-2_12"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-642-28166-2_12"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-642-28166-2_12"
+      }
+    ],
+    "title": "Design of Adaptive Security Mechanisms for Real-Time Embedded Systems",
+    "creators": [
+      {
+        "creator": "Saadatmand, Mehrdad"
+      },
+      {
+        "creator": "Cicchetti, Antonio"
+      },
+      {
+        "creator": "Sjödin, Mikael"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Barthe, Gilles"
+      },
+      {
+        "bookEditor": "Livshits, Benjamin"
+      },
+      {
+        "bookEditor": "Scandariato, Riccardo"
+      }
+    ],
+    "publicationName": "Engineering Secure Software and Systems",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-642-28166-2_12",
+    "publisher": "Springer",
+    "publisherName": "Springer Berlin Heidelberg",
+    "publicationDate": "2012-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-642-28165-5",
+    "electronicIsbn": "978-3-642-28166-2",
+    "isbn": "978-3-642-28165-5",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2012 Springer-Verlag GmbH Berlin Heidelberg",
+    "abstract": "Introducing security features in a system is not free and brings along its costs and impacts. Considering this fact is essential in the design of real-time embedded systems which have limited resources. To ensure correct design of these systems, it is important to also take into account impacts of security features on other non-functional requirements, such as performance and energy consumption. Therefore, it is necessary to perform trade-off analysis among non-functional requirements to establish balance among them. In this paper, we target the timing requirements of real-time embedded systems, and introduce an approach for choosing appropriate encryption algorithms at runtime, to achieve satisfaction of timing requirements in an adaptive way, by monitoring and keeping a log of their behaviors. The approach enables the system to adopt a less or more time consuming (but presumably stronger) encryption algorithm, based on the feedback on previous executions of encryption processes. This is particularly important for systems with high degree of complexity which are hard to analyze statistically.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Symposium on Engineering Secure Software and Systems",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "essos"
+          },
+          {
+            "type": "DBLP",
+            "value": "essos"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "essos2012"
+          }
+        ],
+        "confEventAbbreviation": "ESSoS",
+        "confNumber": "4",
+        "confEventLocation": [
+          {
+            "city": "Eindhoven",
+            "country": [
+              {
+                "code": "NL",
+                "value": "The Netherlands"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2012",
+            "month": "2",
+            "day": "16"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2012",
+            "month": "2",
+            "day": "17"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Security",
+      "real-time embedded systems",
+      "runtime adaptation",
+      "trade-off"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Computer Communication Networks",
+      "Cryptology",
+      "Software Engineering/Programming and Operating Systems",
+      "Data Structures and Information Theory",
+      "Math Applications in Computer Science",
+      "Models and Principles"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s12198-011-0072-5",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12198-011-0072-5"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s12198-011-0072-5"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s12198-011-0072-5"
+      }
+    ],
+    "title": "Security perceptions of Delhi commuters at Metro-bus interchange in multi modal perspective",
+    "creators": [
+      {
+        "creator": "Kumar, Pawan"
+      },
+      {
+        "creator": "Kulkarni, S. Y."
+      },
+      {
+        "creator": "Parida, M."
+      }
+    ],
+    "publicationName": "Journal of Transportation Security",
+    "openaccess": "false",
+    "doi": "10.1007/s12198-011-0072-5",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2011-12-01",
+    "publicationType": "Journal",
+    "issn": "1938-7741",
+    "eIssn": "1938-775X",
+    "volume": "4",
+    "number": "4",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "295",
+    "endingPage": "307",
+    "journalId": "12198",
+    "onlineDate": "2011-05-26",
+    "coverDate": "2011-12",
+    "copyright": "©2011 Springer Science + Business Media, LLC",
+    "abstract": "The operation of Metro, red (AC buses), green (Non-AC buses), purple (HoHo buses) and orange buses ( Cluster buses) has provided a new and strong image to public transport in Delhi. Due to availability of a large number of public modes, the concept of multi modal transport has led to success in Delhi and other Indian metropolitan cities. Integration and Interchange are two important components of multi modal transport system and hence security perceptions of the commuters’ at interchange need to be assessed for implementation of both general and specific security measures. In this context, qualitative model based on perceived relative importance of five security attributes of commuters’ at metro bus interchange has been developed. It is suggested that public transport sector has to make efforts and design the system to prepare and protect passengers and infrastructure. The other non-transport factors such as built environment, design, staff skills, awareness, regular inspection, uninterrupted power supply, etc can contribute to make public transport systems more secure. It is important to have policy level co-ordination among various operators and facilitators to follow up actions in emergency situations. Further, a separate “Multi Modal Transport Security Regulatory Authority” with strong fiscal base to support the cost of security measures and consequences of security failures, must be created.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Transport security",
+      "Multi modal transport system",
+      "Security attributes"
+    ],
+    "subjects": [
+      "Business and Management",
+      "Logistics",
+      "Economic Policy",
+      "Innovation/Technology Management",
+      "R & D/Technology Policy",
+      "Law of the Sea, Air and Outer Space"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-642-01001-9_10",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-642-01001-9_10"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-642-01001-9_10"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-642-01001-9_10"
+      }
+    ],
+    "title": "Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts)",
+    "creators": [
+      {
+        "creator": "Gentry, Craig"
+      },
+      {
+        "creator": "Waters, Brent"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Joux, Antoine"
+      }
+    ],
+    "publicationName": "Advances in Cryptology - EUROCRYPT 2009",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-642-01001-9_10",
+    "publisher": "Springer",
+    "publisherName": "Springer Berlin Heidelberg",
+    "publicationDate": "2009-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-642-01000-2",
+    "electronicIsbn": "978-3-642-01001-9",
+    "isbn": "978-3-642-01000-2",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2009 Springer-Verlag Berlin Heidelberg",
+    "abstract": "We present new techniques for achieving adaptive security in broadcast encryption systems. Previous work on fully collusion resistant broadcast encryption systems with very short ciphertexts was limited to considering only static security. First, we present a new definition of security that we call semi-static security and show a generic “two-key” transformation from semi-statically secure systems to adaptively secure systems that have comparable-size ciphertexts. Using bilinear maps, we then construct broadcast encryption systems that are semi-statically secure in the standard model and have constant-size ciphertexts. Our semi-static constructions work when the number of indices or identifiers in the system is polynomial in the security parameter. For identity-based broadcast encryption, where the number of potential indices or identifiers may be exponential, we present the first adaptively secure system with sublinear ciphertexts. We prove security in the standard model.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "Annual International Conference on the Theory and Applications of Cryptographic Techniques",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "eurocrypt"
+          },
+          {
+            "type": "DBLP",
+            "value": "eurocrypt"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "eurocrypt2009"
+          }
+        ],
+        "confEventAbbreviation": "EUROCRYPT",
+        "confNumber": "28",
+        "confEventLocation": [
+          {
+            "city": "Cologne",
+            "country": [
+              {
+                "code": "DE",
+                "value": "Germany"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2009",
+            "month": "4",
+            "day": "26"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2009",
+            "month": "4",
+            "day": "30"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Random Oracle",
+      "Random Oracle Model",
+      "Broadcast Encryption",
+      "Challenge Ciphertext",
+      "Adaptive Adversary"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Cryptology",
+      "Coding and Information Theory",
+      "Computer Communication Networks",
+      "Systems and Data Security",
+      "Algorithm Analysis and Problem Complexity",
+      "Discrete Mathematics in Computer Science"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/0-387-25660-1_21",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/0-387-25660-1_21"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/0-387-25660-1_21"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/0-387-25660-1_21"
+      }
+    ],
+    "title": "Traffic Redirection Attack Protection System (TRAPS)",
+    "creators": [
+      {
+        "creator": "Thing, Vrizlynn L. L."
+      },
+      {
+        "creator": "Lee, Henry C. J."
+      },
+      {
+        "creator": "Sloman, Morris"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Sasaki, Ryoichi"
+      },
+      {
+        "bookEditor": "Qing, Sihan"
+      },
+      {
+        "bookEditor": "Okamoto, Eiji"
+      },
+      {
+        "bookEditor": "Yoshiura, Hiroshi"
+      }
+    ],
+    "publicationName": "Security and Privacy in the Age of Ubiquitous Computing",
+    "openaccess": "false",
+    "doi": "10.1007/0-387-25660-1_21",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2005-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-0-387-25658-0",
+    "electronicIsbn": "978-0-387-25660-3",
+    "isbn": "978-0-387-25658-0",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "6102",
+    "copyright": "©2005 Springer-Verlag US",
+    "abstract": "Distributed Denial of Service (DDoS) attackers typically use spoofed IP addresses to prevent exposing their identities and easy filtering of attack traffic. This paper introduces a novel mitigation scheme, TRAPS, whereby the victim verifies source address authenticity by performing reconfiguration for traffic redirection and informing high ongoing-traffic correspondents. The spoofed sources are not informed and will continue to use the old configuration to send packets, which can then be easily filtered off. Adaptive rate-limiting can be used on the remaining traffic, which may be attack packets with randomly-generated spoofed IP addresses. We compare our various approaches for achieving TRAPS functionality. The end-host approach is based on standard Mobile IP protocol and does not require any new protocols, changes to Internet routers, nor prior traffic flow characterizations. It supports adaptive, real-time and automatic responses to DDoS attacks. Experiments are conducted to provide proof of concept.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "IFIP International Information Security Conference",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "sec"
+          },
+          {
+            "type": "DBLP",
+            "value": "sec"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "sec2005"
+          }
+        ],
+        "confEventAbbreviation": "SEC",
+        "confNumber": "20",
+        "confEventLocation": [
+          {
+            "city": "Chiba",
+            "country": [
+              {
+                "code": "JP",
+                "value": "Japan"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2005",
+            "month": "5",
+            "day": "30"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2005",
+            "month": "6",
+            "day": "1"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Distributed Denial of Service",
+      "Attack Response System",
+      "Adaptive Security"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Cryptology",
+      "Data Structures and Information Theory",
+      "Information Systems and Communication Service",
+      "Multimedia Information Systems",
+      "Applications of Mathematics"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-540-24767-8_94",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-540-24767-8_94"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-540-24767-8_94"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-540-24767-8_94"
+      }
+    ],
+    "title": "Autonomic Protection System Using Adaptive Security Policy",
+    "creators": [
+      {
+        "creator": "Park, Sihn-hye"
+      },
+      {
+        "creator": "Kim, Wonil"
+      },
+      {
+        "creator": "Kim, Dong-kyoo"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Laganá, Antonio"
+      },
+      {
+        "bookEditor": "Gavrilova, Marina L."
+      },
+      {
+        "bookEditor": "Kumar, Vipin"
+      },
+      {
+        "bookEditor": "Mun, Youngsong"
+      },
+      {
+        "bookEditor": "Tan, C. J. Kenneth"
+      },
+      {
+        "bookEditor": "Gervasi, Osvaldo"
+      }
+    ],
+    "publicationName": "Computational Science and Its Applications – ICCSA 2004",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-540-24767-8_94",
+    "publisher": "Springer",
+    "publisherName": "Springer Berlin Heidelberg",
+    "publicationDate": "2004-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-540-22057-2",
+    "electronicIsbn": "978-3-540-24767-8",
+    "isbn": "978-3-540-22057-2",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2004 Springer-Verlag Berlin Heidelberg",
+    "abstract": "There are various techniques to safeguard computer systems and networks against illegal actions. Secure OS based on Role Based Access Control (RBAC) is one of the systems that reflect these techniques. The RBAC system controls access to system resources based on roles. Recently, many systems employ more fine-grained access control on system resources to enhance system security. However, this approach in access control level may cause unexpected problems, since most systems acquire system resources through system call that is hooked on kernel. In this paper, we propose a novel approach to Intrusion Detection System (IDS). The proposed Autonomic Protection System (APS) supports fine-grained intrusion detection. It resides above Secure OS based on RBAC that provides general-grained access control. The system detects intrusions using security policy based on RBAC model. The system performs double checking for intrusions using positive and negative intrusion detection policy. Additionally, as one of active responses, the system supports the self-adaptation of security policy depending on various computing environments. Therefore, the system can detect intrusions more accurately and respond to the attacks actively and appropriately.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Computational Science and Its Applications",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "iccsa"
+          },
+          {
+            "type": "DBLP",
+            "value": "iccsa"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "iccsa2004"
+          }
+        ],
+        "confEventAbbreviation": "ICCSA",
+        "confNumber": "4",
+        "confEventLocation": [
+          {
+            "city": "Assisi",
+            "country": [
+              {
+                "code": "IT",
+                "value": "Italy"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2004",
+            "month": "5",
+            "day": "14"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2004",
+            "month": "5",
+            "day": "17"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Access Control",
+      "Intrusion Detection",
+      "Security Policy",
+      "Intrusion Detection System",
+      "Autonomic Computing"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Theory of Computation",
+      "Programming Techniques",
+      "Mathematics of Computing",
+      "Information Systems and Communication Service",
+      "Computer Applications",
+      "Computational Mathematics and Numerical Analysis"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s11277-021-08243-3",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11277-021-08243-3"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11277-021-08243-3"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s11277-021-08243-3"
+      }
+    ],
+    "title": "Cellular Automata based Cryptography Model for Reliable Encryption Using State Transition in Wireless Network Optimizing Data Security",
+    "creators": [
+      {
+        "ORCID": "0000-0003-3529-8268",
+        "creator": "Banerjee, Ayan"
+      },
+      {
+        "creator": "Kundu, Anirban"
+      }
+    ],
+    "publicationName": "Wireless Personal Communications",
+    "openaccess": "false",
+    "doi": "10.1007/s11277-021-08243-3",
+    "publisher": "Springer",
+    "publisherName": "Springer US",
+    "publicationDate": "2021-07-01",
+    "publicationType": "Journal",
+    "issn": "0929-6212",
+    "eIssn": "1572-834X",
+    "volume": "119",
+    "number": "1",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": "OriginalPaper",
+    "startingPage": "877",
+    "endingPage": "918",
+    "journalId": "11277",
+    "printDate": "2021-06-16",
+    "onlineDate": "2021-03-19",
+    "coverDate": "2021-07",
+    "copyright": "©2021 The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature",
+    "abstract": "Authors propose a hardware based approach for reliable encryption in wireless network using Cellular Automata (CA). Distinct layers of encryption have been utilized in proposed model for enhancing data security. Transmitter and receiver modules are designed for performing state transition based encrypted activities. Transmitter module is required for capturing environmental turbulences (noise) from a specific geographical location and send encrypted signal to receiver module through wireless network. Receiver module analyses received signal after decryption for desired activities based on real time situations. Different hardware components are selected and compared based on market study targeting efficient construction of proposed modules. Time complexity and code break complexity are measured using different key lengths, keysets, and data sizes for proposed CA based encryption scheme achieving unique results in hardware based cryptography system. Encryption key length, index, and keyset are required for computing code break complexity in design model. Large data size is effectively managed to calculate protection ratio and reliability factor for realizing efficient protectiveness and accuracy. Comparative study between existing encryption technique and proposed CA based encryption technique is established based on time complexity and code break complexity.",
+    "conferenceInfo": [],
+    "keyword": [
+      "Wireless communication",
+      "Encryption system",
+      "Advanced encryption system (AES)",
+      "Cellular automata (CA)",
+      "CA based encryption",
+      "Cryptography",
+      "State transition"
+    ],
+    "subjects": [
+      "Engineering",
+      "Communications Engineering, Networks",
+      "Signal,Image and Speech Processing",
+      "Computer Communication Networks"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/978-3-030-59028-4_6",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-59028-4_6"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-59028-4_6"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/978-3-030-59028-4_6"
+      }
+    ],
+    "title": "Mode Switching from a Security Perspective: First Findings of a Systematic Literature Review",
+    "creators": [
+      {
+        "ORCID": "0000-0002-6937-986X",
+        "creator": "Riegler, Michael"
+      },
+      {
+        "ORCID": "0000-0002-0637-6602",
+        "creator": "Sametinger, Johannes"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Kotsis, Gabriele"
+      },
+      {
+        "bookEditor": "Tjoa, A Min"
+      },
+      {
+        "bookEditor": "Khalil, Ismail"
+      },
+      {
+        "bookEditor": "Fischer, Lukas"
+      },
+      {
+        "bookEditor": "Moser, Bernhard"
+      },
+      {
+        "bookEditor": "Mashkoor, Atif"
+      },
+      {
+        "bookEditor": "Sametinger, Johannes"
+      },
+      {
+        "bookEditor": "Fensel, Anna"
+      },
+      {
+        "bookEditor": "Martinez-Gil, Jorge"
+      }
+    ],
+    "publicationName": "Database and Expert Systems Applications",
+    "openaccess": "false",
+    "doi": "10.1007/978-3-030-59028-4_6",
+    "publisher": "Springer",
+    "publisherName": "Springer International Publishing",
+    "publicationDate": "2020-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-030-59027-7",
+    "electronicIsbn": "978-3-030-59028-4",
+    "isbn": "978-3-030-59027-7",
+    "genre": "OriginalPaper Proceedings",
+    "onlineDate": "2020-09-12",
+    "seriesId": "7899",
+    "copyright": "©2020 Springer Nature Switzerland AG",
+    "abstract": "With increased interoperability of cyber-physical systems (CPSs), security becomes increasingly critical for many of these systems. We know mode switching from domains like aviation and automotive, and we imagine to use this mechanism for the development of resilient systems that continue to function correctly even if under malicious attack. If vulnerabilities are detected or even known, modes can be switched to reduce the attack surface and to minimize attackers’ range of activity. We propose to engineer CPSs with multi-modal software architectures to overcome the interval between the time when zero-day vulnerabilities become known and the time when corresponding updates become available. Thus, affected companies, operators and people will be able to protect themselves and their customers without having to wait for security updates. This paper presents first findings of a systematic literature review (SLR) on mode switching from a security perspective.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Database and Expert Systems Applications",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "dexa"
+          },
+          {
+            "type": "DBLP",
+            "value": "dexa"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "dexa2020"
+          }
+        ],
+        "confEventAbbreviation": "DEXA",
+        "confNumber": "31",
+        "confEventLocation": [
+          {
+            "city": "Bratislava",
+            "country": [
+              {
+                "code": "SK",
+                "value": "Slovakia"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2020",
+            "month": "09",
+            "day": "14"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2020",
+            "month": "09",
+            "day": "17"
+          }
+        ],
+        "confEventURL": "http://www.dexa.org/dexa2020",
+        "confEventPeerReviewInformation": {
+          "averageNumberOfPapersPerReviewer": "3-4",
+          "averageNumberOfReviewsPerPaper": "4-6",
+          "externalReviewersInvolved": "Yes",
+          "fullPapersAcceptanceRate": "20",
+          "fullPapersAccepted": "38",
+          "managementSystem": "EasyChair",
+          "shortPapersAccepted": "20",
+          "submissionsSentForReview": "190",
+          "type": "Double-blind",
+          "value": "Due to the COVID-19 pandemic the conference was held online. DEXA Workshops volume: submissions sent - 15, full papers accepted - 6, short papers accepted - 4, reviewers per paper 3, papers per reviewer 1-2"
+        }
+      }
+    ],
+    "keyword": [
+      "Mode switching",
+      "Protocols",
+      "Security",
+      "Resilience",
+      "Cyber-physical system"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Database Management",
+      "Artificial Intelligence",
+      "Computer Communication Networks",
+      "Mathematics of Computing",
+      "Cryptology",
+      "Theory of Computation"
+    ]
+  },
+  {
+    "contentType": "Article",
+    "identifier": "doi:10.1007/s11859-018-1312-3",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11859-018-1312-3"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s11859-018-1312-3"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/s11859-018-1312-3"
+      }
+    ],
+    "title": "Risk Analysis of Information System Security Based on Distance of Information-State Transition",
+    "creators": [
+      {
+        "creator": "Zhou, Chao"
+      },
+      {
+        "creator": "Pan, Ping"
+      },
+      {
+        "creator": "Mao, Xinyue"
+      },
+      {
+        "creator": "Huang, Liang"
+      }
+    ],
+    "publicationName": "Wuhan University Journal of Natural Sciences",
+    "openaccess": "false",
+    "doi": "10.1007/s11859-018-1312-3",
+    "publisher": "Springer",
+    "publisherName": "Wuhan University",
+    "publicationDate": "2018-06-01",
+    "publicationType": "Journal",
+    "issn": "1007-1202",
+    "eIssn": "1993-4998",
+    "volume": "23",
+    "number": "3",
+    "issueType": "Regular",
+    "topicalCollection": "",
+    "genre": [
+      "OriginalPaper",
+      "Computer Science"
+    ],
+    "startingPage": "210",
+    "endingPage": "218",
+    "journalId": "11859",
+    "onlineDate": "2018-05-17",
+    "coverDate": "2018-06",
+    "copyright": "©2018 Wuhan University and Springer-Verlag GmbH Germany, part of Springer Nature",
+    "abstract": "The configuration of information system security policy is directly related to the information asset risk, and the configuration required by the classified security protection is able to ensure the optimal and minimum policy in the corresponding security level. Through the random survey on the information assets of multiple departments, this paper proposes the relative deviation distance of security policy configuration as risk measure parameter based on the distance of information-state transition (DIT) theory. By quantitatively analyzing the information asset weight, deviation degree and DIT, we establish the evaluation model for information system. With example analysis, the results prove that this method conducts effective risk evaluation on the information system intuitively and reliably, avoids the threat caused by subjective measurement, and shows performance benefits compared with existing solutions. It is not only theoretically but also practically feasible to realize the scientific analysis of security risk for the information system.",
+    "conferenceInfo": [],
+    "keyword": [
+      "distance of information-state transition (DIT)",
+      "deviation distance",
+      "information asset",
+      "risk analysis",
+      "TP 309"
+    ],
+    "subjects": [
+      "Life Sciences",
+      "Life Sciences, general",
+      "Materials Science, general",
+      "Computer Science, general"
+    ]
+  },
+  {
+    "contentType": "Chapter ConferencePaper",
+    "identifier": "doi:10.1007/11596981_66",
+    "language": "en",
+    "url": [
+      {
+        "format": "html",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/11596981_66"
+      },
+      {
+        "format": "pdf",
+        "platform": "web",
+        "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/11596981_66"
+      },
+      {
+        "format": "",
+        "platform": "",
+        "value": "http://dx.doi.org/10.1007/11596981_66"
+      }
+    ],
+    "title": "Building Security Requirements Using State Transition Diagram at Security Threat Location",
+    "creators": [
+      {
+        "creator": "Seo, Seong Chae"
+      },
+      {
+        "creator": "You, Jin Ho"
+      },
+      {
+        "creator": "Kim, Young Dae"
+      },
+      {
+        "creator": "Choi, Jun Yong"
+      },
+      {
+        "creator": "Lee, Sang Jun"
+      },
+      {
+        "creator": "Kim, Byung Ki"
+      }
+    ],
+    "bookEditors": [
+      {
+        "bookEditor": "Hao, Yue"
+      },
+      {
+        "bookEditor": "Liu, Jiming"
+      },
+      {
+        "bookEditor": "Wang, Yu-Ping"
+      },
+      {
+        "bookEditor": "Cheung, Yiu-ming"
+      },
+      {
+        "bookEditor": "Yin, Hujun"
+      },
+      {
+        "bookEditor": "Jiao, Licheng"
+      },
+      {
+        "bookEditor": "Ma, Jianfeng"
+      },
+      {
+        "bookEditor": "Jiao, Yong-Chang"
+      }
+    ],
+    "publicationName": "Computational Intelligence and Security",
+    "openaccess": "false",
+    "doi": "10.1007/11596981_66",
+    "publisher": "Springer",
+    "publisherName": "Springer Berlin Heidelberg",
+    "publicationDate": "2005-01-01",
+    "publicationType": "Book",
+    "printIsbn": "978-3-540-30819-5",
+    "electronicIsbn": "978-3-540-31598-8",
+    "isbn": "978-3-540-30819-5",
+    "genre": "OriginalPaper Proceedings",
+    "seriesId": "558",
+    "copyright": "©2005 Springer-Verlag Berlin Heidelberg",
+    "abstract": "The security requirements in the software life cycle has received some attention recently. However, it is not yet clear how to build security requirements. This paper describes and illustrates a process to build application specific security requirements from state transition diagrams at the security threat location. Using security failure data, we identify security threat locations which attackers could use to exploit software vulnerabilities. A state transition diagram is constructed to be used to protect, mitigate, and remove vulnerabilities relative to security threat locations. In the software development process, security requirements are obtained from state transition diagrams relative to the security threat location.",
+    "conferenceInfo": [
+      {
+        "confSeriesName": "International Conference on Computational and Information Science",
+        "confSeriesID": [
+          {
+            "type": "Springer",
+            "value": "cis"
+          },
+          {
+            "type": "DBLP",
+            "value": "cis"
+          }
+        ],
+        "confEventID": [
+          {
+            "type": "Springer",
+            "value": "cis2005"
+          }
+        ],
+        "confEventAbbreviation": "CIS",
+        "confEventLocation": [
+          {
+            "city": "Xi'an",
+            "country": [
+              {
+                "code": "CN",
+                "value": "China"
+              }
+            ]
+          }
+        ],
+        "confEventDateStart": [
+          {
+            "year": "2005",
+            "month": "12",
+            "day": "15"
+          }
+        ],
+        "confEventDateEnd": [
+          {
+            "year": "2005",
+            "month": "12",
+            "day": "19"
+          }
+        ]
+      }
+    ],
+    "keyword": [
+      "Security Requirement",
+      "Security Threat",
+      "Software Development Process",
+      "Vulnerability Analysis",
+      "State Transition Diagram"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Cryptology",
+      "Artificial Intelligence",
+      "Information Storage and Retrieval",
+      "Information Systems Applications (incl. Internet)",
+      "Computation by Abstract Devices",
+      "Algorithm Analysis and Problem Complexity"
+    ]
+  }
+]

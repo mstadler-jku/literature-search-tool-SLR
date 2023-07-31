@@ -1,0 +1,325 @@
+All exports here are created on 31.07.2023
+
+The following queries where used:
+C:\Users\JKU\Java\jdk-17\bin\java.exe -javaagent:C:\Users\JKU\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9225.16\lib\idea_rt.jar=63984:C:\Users\JKU\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9225.16\bin -Dfile.encoding=UTF-8 -classpath C:\Users\JKU\IdeaProjects\literature-search-tool-SLR\target\classes;C:\Users\JKU\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\JKU\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar at.jku.scsl.main.Main
+2023-07-31 15:00:40 INFO  Main:17 - Welcome to the literature search tool!
+2023-07-31 15:00:40 INFO  IEEESearch:25 - ########## IEEE Xplore ##########
+2023-07-31 15:00:40 INFO  IEEESearch:44 - Found 95 keywords in 'src\main\resources\keywords\keywords_v2_01.txt' and src\main\resources\keywords\keywords_v2_02.txt
+2023-07-31 15:00:40 INFO  IEEESearch:70 - Created search String for IEEE 1: ("Document Title":mode-change OR
+	"Abstract":mode-change OR
+	"Index Terms":mode-change OR
+	"Document Title":mode-changing OR
+	"Abstract":mode-changing OR
+	"Index Terms":mode-changing OR
+	"Document Title":mode-changes OR
+	"Abstract":mode-changes OR
+	"Index Terms":mode-changes OR
+	"Document Title":mode-handle OR
+	"Abstract":mode-handle OR
+	"Index Terms":mode-handle OR
+	"Document Title":mode-handler OR
+	"Abstract":mode-handler OR
+	"Index Terms":mode-handler OR
+	"Document Title":mode-handling OR
+	"Abstract":mode-handling OR
+	"Index Terms":mode-handling OR
+	"Document Title":mode-switch OR
+	"Abstract":mode-switch OR
+	"Index Terms":mode-switch OR
+	"Document Title":mode-switching OR
+	"Abstract":mode-switching OR
+	"Index Terms":mode-switching OR
+	"Document Title":mode-switches OR
+	"Abstract":mode-switches OR
+	"Index Terms":mode-switches OR
+	"Document Title":mode-transfer OR
+	"Abstract":mode-transfer OR
+	"Index Terms":mode-transfer OR
+	"Document Title":mode-transfers OR
+	"Abstract":mode-transfers OR
+	"Index Terms":mode-transfers OR
+	"Document Title":mode-transition OR
+	"Abstract":mode-transition OR
+	"Index Terms":mode-transition OR
+	"Document Title":mode-transitioning OR
+	"Abstract":mode-transitioning OR
+	"Index Terms":mode-transitioning OR
+	"Document Title":mode-transitions OR
+	"Abstract":mode-transitions OR
+	"Index Terms":mode-transitions OR
+	"Document Title":mode-shift OR
+	"Abstract":mode-shift OR
+	"Index Terms":mode-shift OR
+	"Document Title":mode-shifts OR
+	"Abstract":mode-shifts OR
+	"Index Terms":mode-shifts OR
+	"Document Title":mode-shifting OR
+	"Abstract":mode-shifting OR
+	"Index Terms":mode-shifting OR
+	"Document Title":state-change OR
+	"Abstract":state-change OR
+	"Index Terms":state-change OR
+	"Document Title":state-changing OR
+	"Abstract":state-changing OR
+	"Index Terms":state-changing OR
+	"Document Title":state-changes OR
+	"Abstract":state-changes OR
+	"Index Terms":state-changes OR
+	"Document Title":state-handle OR
+	"Abstract":state-handle OR
+	"Index Terms":state-handle OR
+	"Document Title":state-handler OR
+	"Abstract":state-handler OR
+	"Index Terms":state-handler OR
+	"Document Title":state-handling OR
+	"Abstract":state-handling OR
+	"Index Terms":state-handling OR
+	"Document Title":state-switch OR
+	"Abstract":state-switch OR
+	"Index Terms":state-switch OR
+	"Document Title":state-switching OR
+	"Abstract":state-switching OR
+	"Index Terms":state-switching OR
+	"Document Title":state-switches OR
+	"Abstract":state-switches OR
+	"Index Terms":state-switches OR
+	"Document Title":state-transfer OR
+	"Abstract":state-transfer OR
+	"Index Terms":state-transfer OR
+	"Document Title":state-transfers OR
+	"Abstract":state-transfers OR
+	"Index Terms":state-transfers OR
+	"Document Title":state-transition OR
+	"Abstract":state-transition OR
+	"Index Terms":state-transition OR
+	"Document Title":state-transitioning OR
+	"Abstract":state-transitioning OR
+	"Index Terms":state-transitioning OR
+	"Document Title":state-transitions OR
+	"Abstract":state-transitions OR
+	"Index Terms":state-transitions OR
+	"Document Title":state-shift OR
+	"Abstract":state-shift OR
+	"Index Terms":state-shift OR
+	"Document Title":state-shifts OR
+	"Abstract":state-shifts OR
+	"Index Terms":state-shifts OR
+	"Document Title":state-shifting OR
+	"Abstract":state-shifting OR
+	"Index Terms":state-shifting OR
+	"Document Title":scenario-change OR
+	"Abstract":scenario-change OR
+	"Index Terms":scenario-change OR
+	"Document Title":scenario-changing OR
+	"Abstract":scenario-changing OR
+	"Index Terms":scenario-changing OR
+	"Document Title":scenario-changes OR
+	"Abstract":scenario-changes OR
+	"Index Terms":scenario-changes OR
+	"Document Title":scenario-handle OR
+	"Abstract":scenario-handle OR
+	"Index Terms":scenario-handle OR
+	"Document Title":scenario-handler OR
+	"Abstract":scenario-handler OR
+	"Index Terms":scenario-handler OR
+	"Document Title":scenario-handling OR
+	"Abstract":scenario-handling OR
+	"Index Terms":scenario-handling OR
+	"Document Title":scenario-switch OR
+	"Abstract":scenario-switch OR
+	"Index Terms":scenario-switch OR
+	"Document Title":scenario-switching OR
+	"Abstract":scenario-switching OR
+	"Index Terms":scenario-switching OR
+	"Document Title":scenario-switches OR
+	"Abstract":scenario-switches OR
+	"Index Terms":scenario-switches OR
+	"Document Title":scenario-transfer OR
+	"Abstract":scenario-transfer OR
+	"Index Terms":scenario-transfer OR
+	"Document Title":scenario-transfers OR
+	"Abstract":scenario-transfers OR
+	"Index Terms":scenario-transfers OR
+	"Document Title":scenario-transition OR
+	"Abstract":scenario-transition OR
+	"Index Terms":scenario-transition OR
+	"Document Title":scenario-transitioning OR
+	"Abstract":scenario-transitioning OR
+	"Index Terms":scenario-transitioning OR
+	"Document Title":scenario-transitions OR
+	"Abstract":scenario-transitions OR
+	"Index Terms":scenario-transitions OR
+	"Document Title":scenario-shift OR
+	"Abstract":scenario-shift OR
+	"Index Terms":scenario-shift OR
+	"Document Title":scenario-shifts OR
+	"Abstract":scenario-shifts OR
+	"Index Terms":scenario-shifts OR
+	"Document Title":scenario-shifting OR
+	"Abstract":scenario-shifting OR
+	"Index Terms":scenario-shifting) AND
+	("Document Title":software OR
+	"Abstract":software OR
+	"Index Terms":software OR
+	"Document Title":system OR
+	"Abstract":system OR
+	"Index Terms":system) AND
+	("Document Title":security OR
+	"Abstract":security OR
+	"Index Terms":security)
+2023-07-31 15:00:40 INFO  IEEESearch:78 - Created search String for IEEE 2: ("Document Title":configuration-change OR
+	"Abstract":configuration-change OR
+	"Index Terms":configuration-change OR
+	"Document Title":configuration-changing OR
+	"Abstract":configuration-changing OR
+	"Index Terms":configuration-changing OR
+	"Document Title":configuration-changes OR
+	"Abstract":configuration-changes OR
+	"Index Terms":configuration-changes OR
+	"Document Title":configuration-handle OR
+	"Abstract":configuration-handle OR
+	"Index Terms":configuration-handle OR
+	"Document Title":configuration-handler OR
+	"Abstract":configuration-handler OR
+	"Index Terms":configuration-handler OR
+	"Document Title":configuration-handling OR
+	"Abstract":configuration-handling OR
+	"Index Terms":configuration-handling OR
+	"Document Title":configuration-switch OR
+	"Abstract":configuration-switch OR
+	"Index Terms":configuration-switch OR
+	"Document Title":configuration-switching OR
+	"Abstract":configuration-switching OR
+	"Index Terms":configuration-switching OR
+	"Document Title":configuration-switches OR
+	"Abstract":configuration-switches OR
+	"Index Terms":configuration-switches OR
+	"Document Title":configuration-transfer OR
+	"Abstract":configuration-transfer OR
+	"Index Terms":configuration-transfer OR
+	"Document Title":configuration-transfers OR
+	"Abstract":configuration-transfers OR
+	"Index Terms":configuration-transfers OR
+	"Document Title":configuration-transition OR
+	"Abstract":configuration-transition OR
+	"Index Terms":configuration-transition OR
+	"Document Title":configuration-transitioning OR
+	"Abstract":configuration-transitioning OR
+	"Index Terms":configuration-transitioning OR
+	"Document Title":configuration-transitions OR
+	"Abstract":configuration-transitions OR
+	"Index Terms":configuration-transitions OR
+	"Document Title":configuration-shift OR
+	"Abstract":configuration-shift OR
+	"Index Terms":configuration-shift OR
+	"Document Title":configuration-shifts OR
+	"Abstract":configuration-shifts OR
+	"Index Terms":configuration-shifts OR
+	"Document Title":configuration-shifting OR
+	"Abstract":configuration-shifting OR
+	"Index Terms":configuration-shifting OR
+	"Document Title":operating-change OR
+	"Abstract":operating-change OR
+	"Index Terms":operating-change OR
+	"Document Title":operating-changing OR
+	"Abstract":operating-changing OR
+	"Index Terms":operating-changing OR
+	"Document Title":operating-changes OR
+	"Abstract":operating-changes OR
+	"Index Terms":operating-changes OR
+	"Document Title":operating-handle OR
+	"Abstract":operating-handle OR
+	"Index Terms":operating-handle OR
+	"Document Title":operating-handler OR
+	"Abstract":operating-handler OR
+	"Index Terms":operating-handler OR
+	"Document Title":operating-handling OR
+	"Abstract":operating-handling OR
+	"Index Terms":operating-handling OR
+	"Document Title":operating-switch OR
+	"Abstract":operating-switch OR
+	"Index Terms":operating-switch OR
+	"Document Title":operating-switching OR
+	"Abstract":operating-switching OR
+	"Index Terms":operating-switching OR
+	"Document Title":operating-switches OR
+	"Abstract":operating-switches OR
+	"Index Terms":operating-switches OR
+	"Document Title":operating-transfer OR
+	"Abstract":operating-transfer OR
+	"Index Terms":operating-transfer OR
+	"Document Title":operating-transfers OR
+	"Abstract":operating-transfers OR
+	"Index Terms":operating-transfers OR
+	"Document Title":operating-transition OR
+	"Abstract":operating-transition OR
+	"Index Terms":operating-transition OR
+	"Document Title":operating-transitioning OR
+	"Abstract":operating-transitioning OR
+	"Index Terms":operating-transitioning OR
+	"Document Title":operating-transitions OR
+	"Abstract":operating-transitions OR
+	"Index Terms":operating-transitions OR
+	"Document Title":operating-shift OR
+	"Abstract":operating-shift OR
+	"Index Terms":operating-shift OR
+	"Document Title":operating-shifts OR
+	"Abstract":operating-shifts OR
+	"Index Terms":operating-shifts OR
+	"Document Title":operating-shifting OR
+	"Abstract":operating-shifting OR
+	"Index Terms":operating-shifting OR
+	"Document Title":multi-state OR
+	"Abstract":multi-state OR
+	"Index Terms":multi-state OR
+	"Document Title":multi-states OR
+	"Abstract":multi-states OR
+	"Index Terms":multi-states OR
+	"Document Title":operating-state OR
+	"Abstract":operating-state OR
+	"Index Terms":operating-state OR
+	"Document Title":operating-states OR
+	"Abstract":operating-states OR
+	"Index Terms":operating-states OR
+	"Document Title":multi-mode OR
+	"Abstract":multi-mode OR
+	"Index Terms":multi-mode OR
+	"Document Title":multi-modes OR
+	"Abstract":multi-modes OR
+	"Index Terms":multi-modes OR
+	"Document Title":operating-mode OR
+	"Abstract":operating-mode OR
+	"Index Terms":operating-mode OR
+	"Document Title":operating-modes OR
+	"Abstract":operating-modes OR
+	"Index Terms":operating-modes OR
+	"Document Title":multi-modal OR
+	"Abstract":multi-modal OR
+	"Index Terms":multi-modal OR
+	"Document Title":adaptive-security OR
+	"Abstract":adaptive-security OR
+	"Index Terms":adaptive-security) AND
+	("Document Title":software OR
+	"Abstract":software OR
+	"Index Terms":software OR
+	"Document Title":system OR
+	"Abstract":system OR
+	"Index Terms":system) AND
+	("Document Title":security OR
+	"Abstract":security OR
+	"Index Terms":security)
+2023-07-31 15:00:40 INFO  ACMSearch:25 - ########## ACM Digital Library ##########
+2023-07-31 15:00:40 INFO  ACMSearch:40 - ---------- Fourth Query ----------
+2023-07-31 15:00:40 INFO  ACMSearch:64 - Created search String for ACM: (Title:("mode change" OR "mode changing" OR "mode changes" OR "mode handle" OR "mode handler" OR "mode handling" OR "mode switch" OR "mode switching" OR "mode switches" OR "mode transfer" OR "mode transfers" OR "mode transition" OR "mode transitioning" OR "mode transitions" OR "mode shift" OR "mode shifts" OR "mode shifting" OR "state change" OR "state changing" OR "state changes" OR "state handle" OR "state handler" OR "state handling" OR "state switch" OR "state switching" OR "state switches" OR "state transfer" OR "state transfers" OR "state transition" OR "state transitioning" OR "state transitions" OR "state shift" OR "state shifts" OR "state shifting" OR "scenario change" OR "scenario changing" OR "scenario changes" OR "scenario handle" OR "scenario handler" OR "scenario handling" OR "scenario switch" OR "scenario switching" OR "scenario switches" OR "scenario transfer" OR "scenario transfers" OR "scenario transition" OR "scenario transitioning" OR "scenario transitions" OR "scenario shift" OR "scenario shifts" OR "scenario shifting" OR "configuration change" OR "configuration changing" OR "configuration changes" OR "configuration handle" OR "configuration handler" OR "configuration handling" OR "configuration switch" OR "configuration switching" OR "configuration switches" OR "configuration transfer" OR "configuration transfers" OR "configuration transition" OR "configuration transitioning" OR "configuration transitions" OR "configuration shift" OR "configuration shifts" OR "configuration shifting" OR "operating change" OR "operating changing" OR "operating changes" OR "operating handle" OR "operating handler" OR "operating handling" OR "operating switch" OR "operating switching" OR "operating switches" OR "operating transfer" OR "operating transfers" OR "operating transition" OR "operating transitioning" OR "operating transitions" OR "operating shift" OR "operating shifts" OR "operating shifting" OR "multi state" OR "multi states" OR "operating state" OR "operating states" OR "multi mode" OR "multi modes" OR "operating mode" OR "operating modes" OR "multi modal" OR "adaptive security") OR Abstract:("mode change" OR "mode changing" OR "mode changes" OR "mode handle" OR "mode handler" OR "mode handling" OR "mode switch" OR "mode switching" OR "mode switches" OR "mode transfer" OR "mode transfers" OR "mode transition" OR "mode transitioning" OR "mode transitions" OR "mode shift" OR "mode shifts" OR "mode shifting" OR "state change" OR "state changing" OR "state changes" OR "state handle" OR "state handler" OR "state handling" OR "state switch" OR "state switching" OR "state switches" OR "state transfer" OR "state transfers" OR "state transition" OR "state transitioning" OR "state transitions" OR "state shift" OR "state shifts" OR "state shifting" OR "scenario change" OR "scenario changing" OR "scenario changes" OR "scenario handle" OR "scenario handler" OR "scenario handling" OR "scenario switch" OR "scenario switching" OR "scenario switches" OR "scenario transfer" OR "scenario transfers" OR "scenario transition" OR "scenario transitioning" OR "scenario transitions" OR "scenario shift" OR "scenario shifts" OR "scenario shifting" OR "configuration change" OR "configuration changing" OR "configuration changes" OR "configuration handle" OR "configuration handler" OR "configuration handling" OR "configuration switch" OR "configuration switching" OR "configuration switches" OR "configuration transfer" OR "configuration transfers" OR "configuration transition" OR "configuration transitioning" OR "configuration transitions" OR "configuration shift" OR "configuration shifts" OR "configuration shifting" OR "operating change" OR "operating changing" OR "operating changes" OR "operating handle" OR "operating handler" OR "operating handling" OR "operating switch" OR "operating switching" OR "operating switches" OR "operating transfer" OR "operating transfers" OR "operating transition" OR "operating transitioning" OR "operating transitions" OR "operating shift" OR "operating shifts" OR "operating shifting" OR "multi state" OR "multi states" OR "operating state" OR "operating states" OR "multi mode" OR "multi modes" OR "operating mode" OR "operating modes" OR "multi modal" OR "adaptive security") OR Keyword:("mode change" OR "mode changing" OR "mode changes" OR "mode handle" OR "mode handler" OR "mode handling" OR "mode switch" OR "mode switching" OR "mode switches" OR "mode transfer" OR "mode transfers" OR "mode transition" OR "mode transitioning" OR "mode transitions" OR "mode shift" OR "mode shifts" OR "mode shifting" OR "state change" OR "state changing" OR "state changes" OR "state handle" OR "state handler" OR "state handling" OR "state switch" OR "state switching" OR "state switches" OR "state transfer" OR "state transfers" OR "state transition" OR "state transitioning" OR "state transitions" OR "state shift" OR "state shifts" OR "state shifting" OR "scenario change" OR "scenario changing" OR "scenario changes" OR "scenario handle" OR "scenario handler" OR "scenario handling" OR "scenario switch" OR "scenario switching" OR "scenario switches" OR "scenario transfer" OR "scenario transfers" OR "scenario transition" OR "scenario transitioning" OR "scenario transitions" OR "scenario shift" OR "scenario shifts" OR "scenario shifting" OR "configuration change" OR "configuration changing" OR "configuration changes" OR "configuration handle" OR "configuration handler" OR "configuration handling" OR "configuration switch" OR "configuration switching" OR "configuration switches" OR "configuration transfer" OR "configuration transfers" OR "configuration transition" OR "configuration transitioning" OR "configuration transitions" OR "configuration shift" OR "configuration shifts" OR "configuration shifting" OR "operating change" OR "operating changing" OR "operating changes" OR "operating handle" OR "operating handler" OR "operating handling" OR "operating switch" OR "operating switching" OR "operating switches" OR "operating transfer" OR "operating transfers" OR "operating transition" OR "operating transitioning" OR "operating transitions" OR "operating shift" OR "operating shifts" OR "operating shifting" OR "multi state" OR "multi states" OR "operating state" OR "operating states" OR "multi mode" OR "multi modes" OR "operating mode" OR "operating modes" OR "multi modal" OR "adaptive security")) AND (Title:("software" OR "system") OR Abstract:("software" OR "system") OR Keyword:("software" OR "system")) AND (Title:("security") OR Abstract:("security") OR Keyword:("security"))
+2023-07-31 15:00:40 INFO  ScopusSearch:25 - ########## Scopus ##########
+2023-07-31 15:00:40 INFO  ScopusSearch:40 - ---------- Fourth Query ----------
+2023-07-31 15:00:40 INFO  ScopusSearch:65 - Created search String for Scopus: TITLE-ABS-KEY("mode change" OR "mode changing" OR "mode changes" OR "mode handle" OR "mode handler" OR "mode handling" OR "mode switch" OR "mode switching" OR "mode switches" OR "mode transfer" OR "mode transfers" OR "mode transition" OR "mode transitioning" OR "mode transitions" OR "mode shift" OR "mode shifts" OR "mode shifting" OR "state change" OR "state changing" OR "state changes" OR "state handle" OR "state handler" OR "state handling" OR "state switch" OR "state switching" OR "state switches" OR "state transfer" OR "state transfers" OR "state transition" OR "state transitioning" OR "state transitions" OR "state shift" OR "state shifts" OR "state shifting" OR "scenario change" OR "scenario changing" OR "scenario changes" OR "scenario handle" OR "scenario handler" OR "scenario handling" OR "scenario switch" OR "scenario switching" OR "scenario switches" OR "scenario transfer" OR "scenario transfers" OR "scenario transition" OR "scenario transitioning" OR "scenario transitions" OR "scenario shift" OR "scenario shifts" OR "scenario shifting" OR "configuration change" OR "configuration changing" OR "configuration changes" OR "configuration handle" OR "configuration handler" OR "configuration handling" OR "configuration switch" OR "configuration switching" OR "configuration switches" OR "configuration transfer" OR "configuration transfers" OR "configuration transition" OR "configuration transitioning" OR "configuration transitions" OR "configuration shift" OR "configuration shifts" OR "configuration shifting" OR "operating change" OR "operating changing" OR "operating changes" OR "operating handle" OR "operating handler" OR "operating handling" OR "operating switch" OR "operating switching" OR "operating switches" OR "operating transfer" OR "operating transfers" OR "operating transition" OR "operating transitioning" OR "operating transitions" OR "operating shift" OR "operating shifts" OR "operating shifting" OR "multi state" OR "multi states" OR "operating state" OR "operating states" OR "multi mode" OR "multi modes" OR "operating mode" OR "operating modes" OR "multi modal" OR "adaptive security") AND TITLE-ABS-KEY("software" OR "system") AND TITLE-ABS-KEY("security")
+2023-07-31 15:00:40 INFO  WoSSearch:25 - ########## Web of Science ##########
+2023-07-31 15:00:40 INFO  WoSSearch:41 - ---------- Fourth Query ----------
+2023-07-31 15:00:40 INFO  WoSSearch:67 - Created search String for Web of Science (TI=("mode-change" OR "mode-changing" OR "mode-changes" OR "mode-handle" OR "mode-handler" OR "mode-handling" OR "mode-switch" OR "mode-switching" OR "mode-switches" OR "mode-transfer" OR "mode-transfers" OR "mode-transition" OR "mode-transitioning" OR "mode-transitions" OR "mode-shift" OR "mode-shifts" OR "mode-shifting" OR "state-change" OR "state-changing" OR "state-changes" OR "state-handle" OR "state-handler" OR "state-handling" OR "state-switch" OR "state-switching" OR "state-switches" OR "state-transfer" OR "state-transfers" OR "state-transition" OR "state-transitioning" OR "state-transitions" OR "state-shift" OR "state-shifts" OR "state-shifting" OR "scenario-change" OR "scenario-changing" OR "scenario-changes" OR "scenario-handle" OR "scenario-handler" OR "scenario-handling" OR "scenario-switch" OR "scenario-switching" OR "scenario-switches" OR "scenario-transfer" OR "scenario-transfers" OR "scenario-transition" OR "scenario-transitioning" OR "scenario-transitions" OR "scenario-shift" OR "scenario-shifts" OR "scenario-shifting" OR "configuration-change" OR "configuration-changing" OR "configuration-changes" OR "configuration-handle" OR "configuration-handler" OR "configuration-handling" OR "configuration-switch" OR "configuration-switching" OR "configuration-switches" OR "configuration-transfer" OR "configuration-transfers" OR "configuration-transition" OR "configuration-transitioning" OR "configuration-transitions" OR "configuration-shift" OR "configuration-shifts" OR "configuration-shifting" OR "operating-change" OR "operating-changing" OR "operating-changes" OR "operating-handle" OR "operating-handler" OR "operating-handling" OR "operating-switch" OR "operating-switching" OR "operating-switches" OR "operating-transfer" OR "operating-transfers" OR "operating-transition" OR "operating-transitioning" OR "operating-transitions" OR "operating-shift" OR "operating-shifts" OR "operating-shifting" OR "multi-state" OR "multi-states" OR "operating-state" OR "operating-states" OR "multi-mode" OR "multi-modes" OR "operating-mode" OR "operating-modes" OR "multi-modal" OR "adaptive-security") OR AB=("mode-change" OR "mode-changing" OR "mode-changes" OR "mode-handle" OR "mode-handler" OR "mode-handling" OR "mode-switch" OR "mode-switching" OR "mode-switches" OR "mode-transfer" OR "mode-transfers" OR "mode-transition" OR "mode-transitioning" OR "mode-transitions" OR "mode-shift" OR "mode-shifts" OR "mode-shifting" OR "state-change" OR "state-changing" OR "state-changes" OR "state-handle" OR "state-handler" OR "state-handling" OR "state-switch" OR "state-switching" OR "state-switches" OR "state-transfer" OR "state-transfers" OR "state-transition" OR "state-transitioning" OR "state-transitions" OR "state-shift" OR "state-shifts" OR "state-shifting" OR "scenario-change" OR "scenario-changing" OR "scenario-changes" OR "scenario-handle" OR "scenario-handler" OR "scenario-handling" OR "scenario-switch" OR "scenario-switching" OR "scenario-switches" OR "scenario-transfer" OR "scenario-transfers" OR "scenario-transition" OR "scenario-transitioning" OR "scenario-transitions" OR "scenario-shift" OR "scenario-shifts" OR "scenario-shifting" OR "configuration-change" OR "configuration-changing" OR "configuration-changes" OR "configuration-handle" OR "configuration-handler" OR "configuration-handling" OR "configuration-switch" OR "configuration-switching" OR "configuration-switches" OR "configuration-transfer" OR "configuration-transfers" OR "configuration-transition" OR "configuration-transitioning" OR "configuration-transitions" OR "configuration-shift" OR "configuration-shifts" OR "configuration-shifting" OR "operating-change" OR "operating-changing" OR "operating-changes" OR "operating-handle" OR "operating-handler" OR "operating-handling" OR "operating-switch" OR "operating-switching" OR "operating-switches" OR "operating-transfer" OR "operating-transfers" OR "operating-transition" OR "operating-transitioning" OR "operating-transitions" OR "operating-shift" OR "operating-shifts" OR "operating-shifting" OR "multi-state" OR "multi-states" OR "operating-state" OR "operating-states" OR "multi-mode" OR "multi-modes" OR "operating-mode" OR "operating-modes" OR "multi-modal" OR "adaptive-security") OR KP=("mode-change" OR "mode-changing" OR "mode-changes" OR "mode-handle" OR "mode-handler" OR "mode-handling" OR "mode-switch" OR "mode-switching" OR "mode-switches" OR "mode-transfer" OR "mode-transfers" OR "mode-transition" OR "mode-transitioning" OR "mode-transitions" OR "mode-shift" OR "mode-shifts" OR "mode-shifting" OR "state-change" OR "state-changing" OR "state-changes" OR "state-handle" OR "state-handler" OR "state-handling" OR "state-switch" OR "state-switching" OR "state-switches" OR "state-transfer" OR "state-transfers" OR "state-transition" OR "state-transitioning" OR "state-transitions" OR "state-shift" OR "state-shifts" OR "state-shifting" OR "scenario-change" OR "scenario-changing" OR "scenario-changes" OR "scenario-handle" OR "scenario-handler" OR "scenario-handling" OR "scenario-switch" OR "scenario-switching" OR "scenario-switches" OR "scenario-transfer" OR "scenario-transfers" OR "scenario-transition" OR "scenario-transitioning" OR "scenario-transitions" OR "scenario-shift" OR "scenario-shifts" OR "scenario-shifting" OR "configuration-change" OR "configuration-changing" OR "configuration-changes" OR "configuration-handle" OR "configuration-handler" OR "configuration-handling" OR "configuration-switch" OR "configuration-switching" OR "configuration-switches" OR "configuration-transfer" OR "configuration-transfers" OR "configuration-transition" OR "configuration-transitioning" OR "configuration-transitions" OR "configuration-shift" OR "configuration-shifts" OR "configuration-shifting" OR "operating-change" OR "operating-changing" OR "operating-changes" OR "operating-handle" OR "operating-handler" OR "operating-handling" OR "operating-switch" OR "operating-switching" OR "operating-switches" OR "operating-transfer" OR "operating-transfers" OR "operating-transition" OR "operating-transitioning" OR "operating-transitions" OR "operating-shift" OR "operating-shifts" OR "operating-shifting" OR "multi-state" OR "multi-states" OR "operating-state" OR "operating-states" OR "multi-mode" OR "multi-modes" OR "operating-mode" OR "operating-modes" OR "multi-modal" OR "adaptive-security")) AND (TI=("software" OR "system") OR AB=("software" OR "system") OR KP=("software" OR "system")) AND (TI=("security") OR AB=("security") OR KP=("security"))
+2023-07-31 15:00:40 INFO  SpringerLinkSearch:25 - ########## SpringerLink ##########
+2023-07-31 15:00:40 INFO  SpringerLinkSearch:40 - ---------- Fourth Query ----------
+2023-07-31 15:00:40 INFO  SpringerLinkSearch:70 - Created SpringerLink Query First half: ((title:"mode change" OR title:"mode changing" OR title:"mode changes" OR title:"mode handle" OR title:"mode handler" OR title:"mode handling" OR title:"mode switch" OR title:"mode switching" OR title:"mode switches" OR title:"mode transfer" OR title:"mode transfers" OR title:"mode transition" OR title:"mode transitioning" OR title:"mode transitions" OR title:"mode shift" OR title:"mode shifts" OR title:"mode shifting" OR title:"state change" OR title:"state changing" OR title:"state changes" OR title:"state handle" OR title:"state handler" OR title:"state handling" OR title:"state switch" OR title:"state switching" OR title:"state switches" OR title:"state transfer" OR title:"state transfers" OR title:"state transition" OR title:"state transitioning" OR title:"state transitions" OR title:"state shift" OR title:"state shifts" OR title:"state shifting" OR title:"scenario change" OR title:"scenario changing" OR title:"scenario changes" OR title:"scenario handle" OR title:"scenario handler" OR title:"scenario handling" OR title:"scenario switch" OR title:"scenario switching" OR title:"scenario switches" OR title:"scenario transfer" OR title:"scenario transfers" OR title:"scenario transition" OR title:"scenario transitioning" OR title:"scenario transitions" OR title:"scenario shift" OR title:"scenario shifts" OR title:"scenario shifting" OR keyword:"mode change" OR keyword:"mode changing" OR keyword:"mode changes" OR keyword:"mode handle" OR keyword:"mode handler" OR keyword:"mode handling" OR keyword:"mode switch" OR keyword:"mode switching" OR keyword:"mode switches" OR keyword:"mode transfer" OR keyword:"mode transfers" OR keyword:"mode transition" OR keyword:"mode transitioning" OR keyword:"mode transitions" OR keyword:"mode shift" OR keyword:"mode shifts" OR keyword:"mode shifting" OR keyword:"state change" OR keyword:"state changing" OR keyword:"state changes" OR keyword:"state handle" OR keyword:"state handler" OR keyword:"state handling" OR keyword:"state switch" OR keyword:"state switching" OR keyword:"state switches" OR keyword:"state transfer" OR keyword:"state transfers" OR keyword:"state transition" OR keyword:"state transitioning" OR keyword:"state transitions" OR keyword:"state shift" OR keyword:"state shifts" OR keyword:"state shifting" OR keyword:"scenario change" OR keyword:"scenario changing" OR keyword:"scenario changes" OR keyword:"scenario handle" OR keyword:"scenario handler" OR keyword:"scenario handling" OR keyword:"scenario switch" OR keyword:"scenario switching" OR keyword:"scenario switches" OR keyword:"scenario transfer" OR keyword:"scenario transfers" OR keyword:"scenario transition" OR keyword:"scenario transitioning" OR keyword:"scenario transitions" OR keyword:"scenario shift" OR keyword:"scenario shifts" OR keyword:"scenario shifting") AND (title:"software" OR title:"system" OR keyword:"software" OR keyword:"system") AND (title:"security" OR keyword:"security"))
+2023-07-31 15:00:40 INFO  SpringerLinkSearch:79 - Created SpringerLink Query Second half: ((title:"configuration change" OR title:"configuration changing" OR title:"configuration changes" OR title:"configuration handle" OR title:"configuration handler" OR title:"configuration handling" OR title:"configuration switch" OR title:"configuration switching" OR title:"configuration switches" OR title:"configuration transfer" OR title:"configuration transfers" OR title:"configuration transition" OR title:"configuration transitioning" OR title:"configuration transitions" OR title:"configuration shift" OR title:"configuration shifts" OR title:"configuration shifting" OR title:"operating change" OR title:"operating changing" OR title:"operating changes" OR title:"operating handle" OR title:"operating handler" OR title:"operating handling" OR title:"operating switch" OR title:"operating switching" OR title:"operating switches" OR title:"operating transfer" OR title:"operating transfers" OR title:"operating transition" OR title:"operating transitioning" OR title:"operating transitions" OR title:"operating shift" OR title:"operating shifts" OR title:"operating shifting" OR title:"multi state" OR title:"multi states" OR title:"operating state" OR title:"operating states" OR title:"multi mode" OR title:"multi modes" OR title:"operating mode" OR title:"operating modes" OR title:"multi modal" OR title:"adaptive security" OR keyword:"configuration change" OR keyword:"configuration changing" OR keyword:"configuration changes" OR keyword:"configuration handle" OR keyword:"configuration handler" OR keyword:"configuration handling" OR keyword:"configuration switch" OR keyword:"configuration switching" OR keyword:"configuration switches" OR keyword:"configuration transfer" OR keyword:"configuration transfers" OR keyword:"configuration transition" OR keyword:"configuration transitioning" OR keyword:"configuration transitions" OR keyword:"configuration shift" OR keyword:"configuration shifts" OR keyword:"configuration shifting" OR keyword:"operating change" OR keyword:"operating changing" OR keyword:"operating changes" OR keyword:"operating handle" OR keyword:"operating handler" OR keyword:"operating handling" OR keyword:"operating switch" OR keyword:"operating switching" OR keyword:"operating switches" OR keyword:"operating transfer" OR keyword:"operating transfers" OR keyword:"operating transition" OR keyword:"operating transitioning" OR keyword:"operating transitions" OR keyword:"operating shift" OR keyword:"operating shifts" OR keyword:"operating shifting" OR keyword:"multi state" OR keyword:"multi states" OR keyword:"operating state" OR keyword:"operating states" OR keyword:"multi mode" OR keyword:"multi modes" OR keyword:"operating mode" OR keyword:"operating modes" OR keyword:"multi modal" OR keyword:"adaptive security") AND (title:"software" OR title:"system" OR keyword:"software" OR keyword:"system") AND (title:"security" OR keyword:"security"))
+
+Process finished with exit code 0

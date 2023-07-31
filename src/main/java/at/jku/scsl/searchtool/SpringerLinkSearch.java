@@ -25,11 +25,11 @@ public class SpringerLinkSearch {
         logger.info("########## SpringerLink ##########");
 
         // #1
-        searchSL_ONE();
-        // #2
-        searchSL_TWO();
-        // #3
-        searchSL_THREE();
+//        searchSL_ONE();
+//        // #2
+//        searchSL_TWO();
+//        // #3
+//        searchSL_THREE();
         // #4
         searchSL_FOUR();
     }

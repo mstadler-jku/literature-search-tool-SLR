@@ -24,12 +24,12 @@ public class WoSSearch {
 
         logger.info("########## Web of Science ##########");
 
-        // #1
-        searchWoS_ONE();
-        // #2
-        searchWoS_TWO();
-        // #3
-        searchWoS_THREE();
+//        // #1
+//        searchWoS_ONE();
+//        // #2
+//        searchWoS_TWO();
+//        // #3
+//        searchWoS_THREE();
         // #4
         searchWoS_FOUR();
     }

@@ -25,11 +25,11 @@ public class ScopusSearch {
         logger.info("########## Scopus ##########");
 
         // #1
-        searchScopus_ONE();
-        // #2
-        searchScopus_TWO();
-        // #3
-        searchScopus_THREE();
+//        searchScopus_ONE();
+//        // #2
+//        searchScopus_TWO();
+//        // #3
+//        searchScopus_THREE();
         // #4
         searchScopus_FOUR();
     }
