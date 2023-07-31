@@ -21,13 +21,16 @@ public class WoSSearch {
     }
 
     public static void searchWoS() {
+
+        logger.info("########## Web of Science ##########");
+
         // #1
         searchWoS_ONE();
-//      // #2
+        // #2
         searchWoS_TWO();
-//      // #3
+        // #3
         searchWoS_THREE();
-//      // #4
+        // #4
         searchWoS_FOUR();
     }
 

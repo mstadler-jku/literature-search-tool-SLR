@@ -21,12 +21,15 @@ public class IEEESearch {
     }
 
     public static void searchIEEE() {
+
+        logger.info("########## IEEE Xplore ##########");
+
         // #1
-//        searchIEEE_ONE();
+        searchIEEE_ONE();
         // #2
-//        searchIEEE_TWO();
+        searchIEEE_TWO();
         // #3
-//        searchIEEE_THREE();
+        searchIEEE_THREE();
         // #4
         searchIEEE_FOUR();
     }

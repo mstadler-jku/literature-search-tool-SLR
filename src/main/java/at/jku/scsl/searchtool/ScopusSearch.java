@@ -21,14 +21,17 @@ public class ScopusSearch {
     }
 
     public static void searchScopus() {
-        // #
-//        searchScopus_ONE();
+
+        logger.info("########## Scopus ##########");
+
+        // #1
+        searchScopus_ONE();
         // #2
-//        searchScopus_TWO();
+        searchScopus_TWO();
         // #3
-//        searchScopus_THREE();
+        searchScopus_THREE();
         // #4
-//        searchScopus_FOUR();
+        searchScopus_FOUR();
     }
 
 

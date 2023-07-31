@@ -21,14 +21,17 @@ public class ACMSearch {
     }
 
     public static void searchACM() {
+
+        logger.info("########## ACM Digital Library ##########");
+
         // #
-//        searchACM_ONE();
+        searchACM_ONE();
         // #2
-//        searchACM_TWO();
+        searchACM_TWO();
         // #3
-//        searchACM_THREE();
+        searchACM_THREE();
         // #4
-//        searchACM_FOUR();
+        searchACM_FOUR();
     }
 
 

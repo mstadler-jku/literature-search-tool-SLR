@@ -21,6 +21,9 @@ public class SpringerLinkSearch {
     }
 
     public static void searchSpringerLink() {
+
+        logger.info("########## SpringerLink ##########");
+
         // #1
         searchSL_ONE();
         // #2
