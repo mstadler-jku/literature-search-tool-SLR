@@ -40,3 +40,6 @@ build/
 ### Sonar ###
 /.idea/sonarlint/issuestore/*
 /.idea/sonarlint/securityhotspotstore/*
+
+### Config ###
+configs/app.config
