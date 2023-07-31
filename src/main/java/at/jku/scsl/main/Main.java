@@ -3,7 +3,7 @@ package at.jku.scsl.main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import static at.jku.scsl.searchtool.WoSSearch.searchWoS;
+import static at.jku.scsl.searchtool.SpringerLinkSearch.searchSpringerLink;
 
 
 public class Main {
@@ -15,7 +15,8 @@ public class Main {
 //        searchIEEE();
 //        searchACM();
 //        searchScopus();
-        searchWoS();
+//        searchWoS();
+        searchSpringerLink();
     }
 
 

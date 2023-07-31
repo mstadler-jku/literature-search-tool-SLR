@@ -52,10 +52,52 @@ public class SearchTool {
                 return generateWoSSearchQuery();
             }
             case SPRINGER_LINK -> {
+                return performSpringerLinkSearch();
             }
             default -> logger.error("DatabaseType not implemented: {}", databaseType);
         }
-        return "";
+        return null;
+    }
+
+    private String performSpringerLinkSearch() {
+        StringBuilder queryBuilder = new StringBuilder();
+        int queryCounter = 0;
+        queryBuilder.append("(");
+        for (BaseQuery baseQuery : this.queryList) {
+            queryCounter++;
+            queryBuilder.append("(");
+            int metaCounter = 0;
+
+            // abstract is not possible for SpringerLink -> for correct operator positions
+            if (this.metaDataFields.contains(MetaDataType.ABSTRACT)) {
+                metaCounter++;
+            }
+
+            for (MetaDataType metaDataType : this.metaDataFields) {
+                metaCounter++;
+                int keywordCounter = 0;
+                for (String keyword : baseQuery.getKeywordList()) {
+                    keywordCounter++;
+                    if (metaDataType == MetaDataType.TITLE) {
+                        queryBuilder.append("title:\"").append(keyword).append("\"");
+                    } else if (metaDataType == MetaDataType.KEYWORDS) {
+                        queryBuilder.append("keyword:\"").append(keyword).append("\"");
+                    }
+                    if (keywordCounter != baseQuery.getKeywordList().size() && metaDataType != MetaDataType.ABSTRACT) {
+                        queryBuilder.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                    }
+                }
+                if (metaCounter < this.metaDataFields.size() && metaDataType != MetaDataType.ABSTRACT) {
+                    queryBuilder.append(" ").append(baseQuery.getBooleanOperatorType()).append(" ");
+                }
+            }
+            queryBuilder.append(")"); // query specific
+            if (queryCounter != this.queryList.size()) {
+                queryBuilder.append(" ").append(this.booleanOperatorType).append(" ");
+            }
+        }
+        queryBuilder.append(")"); // outer
+        return queryBuilder.toString();
     }
 
     private String generateWoSSearchQuery() {
