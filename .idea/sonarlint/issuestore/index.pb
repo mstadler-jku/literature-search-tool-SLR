@@ -38,3 +38,17 @@ N
 src/main/python/at/__init__.py,e\c\ecdcbaf8a9ba8c4d6bc1aac4dd53f65dac3457d0
 K
 src/main/python/__init__.py,6\a\6a723e9d5dee9f2f820369b5129d6bb140f1b07a
+f
+6src/main/python/at/jku/scsl/main/csv_files/01_ieee.csv,f\7\f7af977b13cb118b5c0515ed7b4ff8a3f725d52d
+e
+5src/main/python/at/jku/scsl/main/csv_files/04_wos.csv,1\0\108e0bc298b5914ec7309c5461054915cbbb0f87
+j
+:src/main/python/at/jku/scsl/main/csv_files/05_springer.csv,8\7\87f4990fff31751081541f50fe5e7b1a8f71148e
+h
+8src/main/python/at/jku/scsl/main/csv_files/03_scopus.csv,8\6\8654fc0716d20e265321b3fe854cee734b40afb1
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+e
+5src/main/python/at/jku/scsl/main/csv_files/02_acm.csv,0\4\042be5ab9b401dccc25634453da078f93f4a4d14
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
