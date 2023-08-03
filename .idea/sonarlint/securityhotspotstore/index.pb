@@ -52,3 +52,5 @@ e
 5src/main/python/at/jku/scsl/main/csv_files/02_acm.csv,0\4\042be5ab9b401dccc25634453da078f93f4a4d14
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+d
+4src/main/python/at/jku/scsl/main/duplicate_parser.py,2\9\29a2efc44ed6ba8d2d2ddecf420882851ba0616a
