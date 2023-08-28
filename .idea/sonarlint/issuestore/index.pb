@@ -9,14 +9,8 @@ d
 4src/main/java/at/jku/scsl/searchtool/SearchTool.java,8\d\8d061e09e2ba1867d0baa62ba48526c07ea0ad63
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-X
-(src/main/java/at/jku/scsl/main/Main.java,a\5\a5e535fb3293d5a2c11f780665adb0a548b4c987
 D
 src/main/__init__.py,c\9\c97f33e131cacf0a485807b8014d64a6f8f15958
-f
-6src/main/java/at/jku/scsl/searchtool/ScopusSearch.java,6\a\6a6e895159102b8a0af3b57aef7a22fd3fcff2e2
-c
-3src/main/java/at/jku/scsl/searchtool/ACMSearch.java,7\7\770d86251591dbae17c04a7ea9dd3124a8652987
 ?
 src/__init__.py,b\1\b141e8a708cfc0de96ab25c59ca83087cbddf7fa
 :
@@ -26,14 +20,8 @@ c
 ,src/main/python/at/jku/scsl/main/__init__.py,9\4\94448aa5e8df6aade0a480accaf2ac49ce4fb631
 R
 "src/main/python/at/jku/__init__.py,c\5\c50fd611cfb2196b03a2776ed53baf2519c1e6bc
-d
-4src/main/java/at/jku/scsl/searchtool/IEEESearch.java,7\3\736b18bf2da88bc9a66843918484c386454633c2
 W
 'src/main/python/at/jku/scsl/__init__.py,2\3\2369f79228010711d635c1a832655e1c14aae6a0
-l
-<src/main/java/at/jku/scsl/searchtool/SpringerLinkSearch.java,8\d\8daae6559092cb45f3f4deed4a4a2f88dead3f48
-c
-3src/main/java/at/jku/scsl/searchtool/WoSSearch.java,f\5\f5f98de9f083c11ab3ae60d89cc4abf54e3198f2
 N
 src/main/python/at/__init__.py,e\c\ecdcbaf8a9ba8c4d6bc1aac4dd53f65dac3457d0
 K

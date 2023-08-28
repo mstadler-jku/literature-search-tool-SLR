@@ -39,8 +39,8 @@ public class SpringerLinkSearch {
 
         logger.info("---------- Fourth Query ----------");
 
-        String keywordFilePathOne = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2_01.txt";
-        String keywordFilePathTwo = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2_02.txt";
+        String keywordFilePathOne = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v3_01.txt";
+        String keywordFilePathTwo = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v3_02.txt";
         List<String> keywordListOne = Util.readKeywords(keywordFilePathOne);
         List<String> keywordListTwo = Util.readKeywords(keywordFilePathTwo);
 

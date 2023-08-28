@@ -36,8 +36,8 @@ public class IEEESearch {
 
 
     private static void searchIEEE_FOUR() {
-        String keywordFilePathFirstHalf = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2_01.txt";
-        String keywordFilePathSecondHalf = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2_02.txt";
+        String keywordFilePathFirstHalf = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v3_01.txt";
+        String keywordFilePathSecondHalf = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v3_02.txt";
         List<String> firstHalfKeywords = Util.readKeywords(keywordFilePathFirstHalf);
         List<String> secHalfKeywords = Util.readKeywords(keywordFilePathSecondHalf);
 
