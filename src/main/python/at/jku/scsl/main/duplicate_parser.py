@@ -18,11 +18,11 @@ import os.path
 import pandas as pd
 
 if __name__ == '__main__':
-    IEEE_CSV_PATH = os.path.join("csv_files", "01_ieee.csv")
-    ACM_CSV_PATH = os.path.join("csv_files", "02_acm.csv")
-    SCOPUS_CSV_PATH = os.path.join("csv_files", "03_scopus.csv")
-    WOS_CSV_PATH = os.path.join("csv_files", "04_wos.csv")
-    SPRINGER_CSV_PATH = os.path.join("csv_files", "05_springer.csv")
+    IEEE_CSV_PATH = os.path.join("csv_files_v1", "01_ieee.csv")
+    ACM_CSV_PATH = os.path.join("csv_files_v1", "02_acm.csv")
+    SCOPUS_CSV_PATH = os.path.join("csv_files_v1", "03_scopus.csv")
+    WOS_CSV_PATH = os.path.join("csv_files_v1", "04_wos.csv")
+    SPRINGER_CSV_PATH = os.path.join("csv_files_v1", "05_springer.csv")
 
     df_ieee = pd.DataFrame(
         columns=["Document Title", "Authors", "Author Affiliations", "Publication Title", "Date Added To Xplore",
