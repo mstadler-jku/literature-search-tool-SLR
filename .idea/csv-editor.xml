@@ -3,7 +3,77 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v1\01_ieee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v1\02_acm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v1\04_wos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v1\05_springer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\01_ieee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\02_acm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\04_wos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\05_springer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\all_results_cleaned.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\manual_parse_rdy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\csv_files_v2\raw_literature_parser_result.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -17,7 +87,112 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\main\python\at\jku\scsl\main\outputs\Out_47.csv">
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\01_clear_irrelevant\sec_rnd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\01_clear_irrelevant\third_rnd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\cleaning_export\cleaning_p2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\cleaning_export\raw_literature_parser_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\cleaning_p2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\tester.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\acm\references.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\csv_files_raw\02_acm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\csv_files_raw\05_springer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\ieee\export2023.07.31-09.05.50.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\ieee\export2023.07.31-09.07.08.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\springer\convertcsv.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v1_kwv2\wos\wos_references.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v2_kwv3\ieee\export2023.08.28-06.37.25.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v2_kwv3\ieee\export2023.08.28-06.39.45.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\query_results_v2_kwv3\wos\wos.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

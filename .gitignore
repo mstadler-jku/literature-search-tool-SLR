@@ -44,3 +44,6 @@ build/
 
 ### Config ###
 configs/app.config
+/src/main/resources/configs/app.config
+src/main/resources/configs/*
+/src/main/resources/configs/
