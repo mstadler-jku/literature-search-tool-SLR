@@ -1,0 +1,101 @@
+id;Relevant?;title
+18;Y;Semantic Intrusion Detection System using pattern matching and state transition analysis
+107;Y;A network state based intrusion detection model
+125;Y;Policy Monitoring and a Finite State Automata Model
+231;Y;A Self-Adaptive Bell–LaPadula Model Based on Model Training With Historical Access Logs
+269;n;Continuous Authentication of Embedded Software
+285;n;A Memory-Efficient Bit-Split Parallel String Matching Using Pattern Dividing for Intrusion Detection Systems
+337;Y;Implementing trustworthy services using replicated state machines
+444;n;CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code
+462;Y;A Secure and Reliable Platform Configuration Change Reporting Mechanism for Trusted Computing Enhanced Secure Channels
+485;Y;Designing a Security Platform for Collaborating Autonomous Systems - An Experience Report
+532;n;User interface for network operations in energy control centers
+578;Y;Energy-aware adaptive security management for wireless sensor networks
+619;n;A Framework for Design, Verification, and Management of SoC Access Control Systems
+639;Y;Adaptive security provision for increased energy efficiency in Wireless Sensor Networks
+795;Y;Integrating Multi-Modal Circuit Features within an Efficient Encryption System
+831;Y;Analysis and Research on Security Protection and Control of Intelligent Substation Based on Visualization Technology
+862;Y;Secured remote configuration approach for industrial cyber-physical systems
+906;n;Hybrid Optimization Enabled Robust CNN-LSTM Technique for Network Intrusion Detection
+940;Y;On the Performance and Scalability of Simulators for Improving Security and Safety of Smart Cities
+1074;n;WRDI: A Multimodal Dataset of mmWave Radar Data and Image
+1098;n;Biometric for home environment challenges, modalities and applications
+1145;n;Radial Voltage Stability
+1246;n;A Cross-Layer Green Information-Centric Networking Design Toward the Energy Internet
+1258;n;UBSegNet: Unified Biometric Region of Interest Segmentation Network
+1274;n;Tracklet and Signature Representation for Multi-Shot Person Re-Identification
+1275;n;Computer assisted spine surgery: A first step toward clinical, application in orthopaedics
+1317;n;AnyCall: Fast and Flexible System-Call Aggregation
+1366;n;Theorem-Based, Data-Driven, Cyber Event Detection
+1369;Y;Towards Automated Network Mitigation Analysis
+1376;n;Time Pattern Analysis of Malware by Circular Statistics
+1472;Y;Effective Multitask Deep Learning for IoT Malware Detection and Identification Using Behavioral Traffic Analysis
+1478;Y;Two-stage self-adaption security and low-carbon dispatch strategy of energy storage systems in distribution networks with high proportion of photovoltaics
+1570;n;Multimodal Data Augmentation for Visual-Infrared Person ReID with Corrupted Data
+1572;Y;A Hybrid Dynamic Risk Analysis Methodology for Cyber-Physical Systems
+1631;Y;Multi-modal biometric fusion based continuous user authentication for E-proctoring using hybrid LCNN-Salp swarm optimization
+1639;Y;Adaptive IDS for Cooperative Intelligent Transportation Systems Using Deep Belief Networks
+1652;n;User Identity Linkage via Co-Attentive Neural Network From Heterogeneous Mobility Data
+1673;n;GAN based Visible to Thermal Image Translation
+1740;n;Management of information processes under a radiation emergency
+1790;n;Multimodal biometric fusion online handwritten signature verification using neural network and support vector machine
+1943;n;Big Data
+1946;Y;“SAVE” – An Integrated Approach of Personal and Home Safety for Active Assisted Living
+1967;N;Skeleton-Based Human Action Recognition on Large-Scale Datasets
+2031;N;Multi-Modal Motion-Capture- Based Biometric Systems for Emergency Response and Patient Rehabilitation
+2064;Y;An end-to-end lwm2m-based communication architecture for multimodal NB-IoT/BLE devices
+2095;Y;Adaptive Security Policies
+2103;Y;Cryptographic protection for military radio communications
+2131;Y;Group Activity Recognition by Using Effective Multiple Modality Relation Representation with Temporal-Spatial Attention
+2139;N;Rank Level Fusion of Multimodal Biometrics Based on Cross-Entropy Monte Carlo Method
+2142;Y;Risk-driven security metrics for an Android smartphone application
+2172;N;Experimental demonstration of free-space multi-state orbital angular momentum shift keying
+2348;n;Biometric authentication using soft biometric traits
+2412;n;Level ice clearing in model and full scale using azimuthing propulsion
+2438;N;Techniques for enhancing the security of fuzzy vault: A review
+2517;N;Parallelizing Multimodal Background Modeling on a Low-Power Integrated GPU
+2564;n;Practical and secure searchable symmetric encryption with a small index
+2591;Y;Optimal strategy selection for moving target defense based on markov game
+2630;n;Smart video summarization using mealy machine-based trajectory modelling for surveillance applications
+2653;y;Multimodal biometrics security system for authentication
+2694;y;Intrusion detection system for mitigating attacks using energy monitoring in wireless sensor networks
+2720;y;Biometric Authentication Using Fused Multimodal Biometric
+2773;y;Security enhancement of internet banking applications by using multimodal biometrics
+2783;n;Speeding power restoration
+2825;Y;Security and performance tradeoff analysis of mobile offloading systems under timing attacks
+2826;Y;A punctured programming approach to adaptively secure functional encryption
+2832;n;Fusion of face and iris biometrics on mobile devices using near-infrared images
+2860;n;Isotopic inventories in thermal neutron spectrum reactor designs suitable for direct nuclear thermal propulsion
+2894;n;Design of multi-mode compatible image acquisition system for HD area array CCD
+2912;n;A quantum key as the fiber optic security sensor
+2943;Y;The monitoring platform for campus security based on intelligent assisted vision
+2965;n;The influence of multi-mode failures in composites on the characteristics of elastic waves
+2981;Y;Multi-Modal Cooperative Intelligent Transport Systems to Improve Safety
+2991;n;Multi-view multi-modal gait based human identity recognition from surveillance videos
+3057;n;Combination of physiological and behavioral biometric for human identification
+3118;n;Ontological labels for automated location of left ventricular remodeling
+3125;y;A real-time remote safety monitoring system for commercial vehicle operations
+3152;n;An immersive system for browsing and visualizing surveillance video
+3385;n;Person and vehicle tracking in surveillance video
+3394;n;Transportation Infrastructure Security Utilizing Intelligent Transportation Systems
+3424;n;Web object information extraction based on generalized hidden Markov model
+3440;n;Low cost multimodal biometric identification system based on hand geometry, palm and finger print texture
+3444;n;The violent offender treatment program (Votp): Development of a treatment program for violent patients in a high security psychiatric hospital
+3463;n;Research on bio-inspired multi-net paralleling mechanism based on web application
+3521;Y;Usability evaluation of multi-modal biometric verification systems
+3595;n;High-speed atmosphere laser digital communication system
+3617;n;Synchronization with eventcounts and sequencers (extended abstract)
+3661;y;A Dynamic Programming Model for Internal Attack Detection in Wireless Sensor Networks
+3748;Y;Optimized utilization of decentral flexibility for the operational management of cellular multi-modal distribution grids
+3845;N;Analysis of complemented group CA derived from 60/102/204 group CA
+3849;Y;Design of wind power and water desalination reconfigurable control system based on functional analysis approach
+3928;N;"ITS implementation, the swedish way, ""interaction"""
+3965;N;Vimm: Runtime integrity measurement of a virtualized operating system
+3983;N;COSMO-SkyMed mission: First results and future outlook
+3994;N;Background modelling in demanding situations with confidence measure
+4089;N;EXPERIMENTAL EVALUATION OF TEXT-INDEPENDENT SPEAKER VERIFICATION ON LABORATORY AND FIELD TEST DATABASES IN THE M2VTS PROJECT
+4099;Y;Detecting malicious activities through port profiling
+4119;Y;Integrated package for real-time security enhancement
+4146;N;Memory-Map Shuffling: An Adaptive Security-Risk Mitigation
+4223;Y;Study on adaptive protection system of power supply and distribution line
+4274;Y;Novel Multimodal Template Generation Algorithm

@@ -1,0 +1,101 @@
+id;Relevant?;title
+58;y;Static Vulnerabilities Detection Based on Extended Vulnerability State Machine Model
+63;n;Security evaluation of proactive secret sharing cryptosystem
+119;y;Dependability Analysis of Information Systems with Hierarchical Reconfiguration of Services
+145;n;HealthSense: A medical use case of Internet of Things and blockchain
+164;y;Security Function Virtualization Based Moving Target Defense of SDN-Enabled Smart Grid
+179;n;Simmelian Ties and Structural Holes: Exploring Their Topological Roles in Forming Trust for Securing Wireless Sensor Networks
+357;n;Secrecy Outage Performance for DF Buffer-Aided Relaying Networks With a Multi-Antenna Destination
+412;n;Efficient computation of discounted asymmetric information zero-sum stochastic games
+446;n;Transparent 3rd-Party Authentication with Application Mobility for 5G Mobile Edge Computing
+575;y;Adaptive Security Risk Mitigation in Edge Computing: Randomized Defense Meets Prospect Theory
+583;n;A BDD-Based Analysis Method for Probabilistic Competing Failures of Multi-State Sensor Array System
+639;y;Adaptive security provision for increased energy efficiency in Wireless Sensor Networks
+682;y;A Chinese Multi-modal Relation Extraction Model for Internet Security of Finance
+686;n;Enabling Multi-Tenant Networks for the Automation Industry
+697;n;Optimal Steady-State Operation of a MTDC system based on DC-Independent System Operator Objectives
+778;n;BC Hydro approach to integration of phasor measurements in EMS state estimator
+813;y;Dynamic adaptive learning mobile agents for multi-modal input collaboration in home environment
+839;n;Optimal Scheduling for Photovoltaic-Storage-Charging Smart Distribution Substation under Real-time Electricity Price
+869;n;Multi-Robot System for Autonomous Cooperative Counter-UAS Missions: Design, Integration, and Field Testing
+937;n;A secure RBAC mobile agent access control model for healthcare institutions
+951;n;The importance of trust in a Layered Sensing construct
+970;n;Socio-Technical Trust For Multi-Modal Hearing Assistive Technology
+979;n;Data-Driven Short-Term Voltage Security Constrained Reactive Power Optimization Method
+1033;n;Verification Templates for the Analysis of User Interface Software Design
+1034;n;Combining Multimodal DNN and SigPid technique for detecting Malicious Android Apps
+1085;n;Efficient Implementation of AES and CTR_DRBG on 8-Bit AVR-Based Sensor Nodes
+1147;n;A Novel Data Acquisition Algorithm for the Reverse Analysis of Encrypted Synchronous PLDs
+1216;y;Resilient Wide-Area Damping Control to Mitigate Strong Cyber Attack: A Multiple-Controller Switching Approach
+1241;n;Research on Reactive Voltage Optimization of Multi-DC Sending Power Grid Based on Reinforcement Learning
+1288;n;Pushing the Boundary of Multimedia Big Data: An Overview of IEEE MIPR
+1391;n;Reachability Analysis for Role-Based Administration of Attributes
+1394;n;LaFA: Lookahead Finite Automata for Scalable Regular Expression Detection
+1474;n;Blockchain-based Secure Storage Model for Multimodal Biometrics Using 3D Face and Ear
+1479;n;Optimization and Minimum-Energy Approaches for Private Message Security in the Wavelet Domain of Audio Signals
+1604;n;Low latency cyberattack detection in smart grids with deep reinforcement learning
+1768;n;STUDY ON THE REALIZATION OF AN UNDETECTABLE MARINE DRONE AND ITS COMMAND-AND-CONTROL METHODS
+1770;n;Packet-level prediction of mobile-app traffic using multitask Deep Learning
+1828;n;Securing recognized multimodal biometric images using cryptographic model
+1902;n;A switched chaotic encryption scheme using multi-mode generalized modified transition map
+1923;y;Robust multimodal biometric authentication algorithms using fingerprint, iris and voice features fusion
+1934;y;Multi-mode Systems for Resilient Security in Industry 4.0
+2061;y;Score Level based Fusion Method for Multimodal Biometric Recognition using Palmprint and Iris
+2084;y;Quality based adaptive score fusion approach for multimodal biometric system
+2092;n;Modern trends in gamma detection systems for emergency response
+2120;y;Continuous user authentication using multimodal biometric traits with optimal feature level fusion
+2159;n;Projecting Pathways to Food-Energy-Water Systems Sustainability Through Ontology
+2189;n;Toward adaptive decision support for assessing infrastructure system resilience using hidden performance measures
+2264;y;Multimodal biometrics authentication using multiple matching algorithm
+2277;n;Effects of different queueing models on migration of virtual machines
+2289;y;Secure electronic voting machine using multi-modal biometric authentication system, data encryption, and firewall
+2334;n;Mobi-SAGE-RS: A sparse additive generative model-based mobile application recommender system
+2389;n;Cryptographic key generation from multimodal template using fuzzy extractor
+2444;n;A multi-modal neuro-physiological study of malicious insider threats
+2474;n;STARS: Soft multi-task learning for activity recognition from multi-modal sensor data
+2475;n;Cache Automaton: Repurposing Caches for Automata Processing
+2641;n;A Quantitative Approach for Vulnerability Analysis of Urban Metro Network System
+2665;n;Advances in biometrics for secure human authentication system: Biometric authentication system
+2674;n;Desisting the Fraud in India's Voting Process through Multi Modalbiometrics
+2737;n;A comparative study of multi-focus image fusion validation metrics
+2752;y;Multimodal cryptosystem based on fuzzy commitment
+2798;n;Nonparametric state machine with multiple features for abnormal object classification
+2817;n;Robust online multi-object identifying and tracking
+2877;n;Position tracking control of permanent magnet synchronous motor based on fuzzy sliding mode principle
+2957;n;A survivable critical infrastructure control application
+2985;n;Modeling and checking the security of DIFC system configurations
+3002;n;A similarity metric for multimodal images based on modified Hausdorff distance
+3005;n;Stereo-based framework for pedestrian detection with partial occlusion handling
+3124;n;Security assessment for intentional island operation in modern power system
+3131;n;Sparse reconstruction based watermarking for secure biometric authentication
+3158;n;ANDERS: Future of concrete bridge deck evaluation and rehabilitation
+3195;n;Break for the border
+3305;n;High-level hierarchical semantic processing framework for smart sensor networks
+3338;n;Predicting intrusion goal using dynamic Bayesian network with transfer probability estimation
+3352;n;Transient stability analysis of power system based on Bayesian networks and main electrical wiring
+3394;n;Transportation Infrastructure Security Utilizing Intelligent Transportation Systems
+3395;n;Run-time power gating of on-chip routers using look-ahead routing
+3399;n;TPM context manager and dynamic configuration management for trusted virtualization platform
+3418;n;A replica selection approach based on prediction in data grid
+3424;n;Web object information extraction based on generalized hidden Markov model
+3478;n;Advanced virtual reality technologies for surveillance and security applications
+3505;n;Coherent optical MIMO
+3648;n;Feasibility of twin-field quantum key distribution based on multi-mode coherent phase-coded states
+3651;n;Broadcast Encryption with Size N-1/3 and More from k-Lin
+3719;n;INFRASTRUCTURE FOR LEARNING THE BEHAVIOUR OF MALICIOUS AND ABNORMAL APPLICATIONS
+3724;n;Taxonomy of Cyber Threats
+3743;n;A Framework for User Awareness and Acceptance of Smart Card and Fingerprint-Based Access Control to Medical Information Systems in South Africa
+3760;n;5 Reinforcement Learning
+3797;y;Multi-modal and multi-sensor approach to support security management tasks
+3806;n;Internal flow behavior and pressure increasing mechanism of a supersonic steam injector
+3883;n;Event driven adaptive security in internet of things
+3937;y;Multimodal biometric system based on near- infra-red dorsal hand geometry and fingerprints for single and whole hands
+4032;n;"The ""SecurePhone"": A mobile phone with biometric authentication and e-signature support for dealing secure transactions on the fly"
+4108;n;File service mechanism for distributed systems
+4127;n;Threshold Public-Key Encryption with Adaptive Security and Short Ciphertexts
+4164;n;Computer Immunodeficiency: Analogy between Computer Security and HIV
+4225;n;Conjugate 2DPalmHash Code for Secure Palm-print-vein Verification
+4243;n;Secure Web Based Home Automation Application Layer Based Security Using Embedded Programmable Logic Controller
+4269;n;Distributed Denial of Service Attacks Detection Using Support Vector Machine
+4304;n;Bayesian Decision Fusion of Palm and Finger Prints for Personal Identification
+4328;n;Abstract Certification of Global Non-interference in Rewriting Logic
