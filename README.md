@@ -1,9 +1,14 @@
-# Literature Search Query Generation Tool
+# SLR Documentation
+
+## Python project
+For checking the agreement between the different researchers.
+
+## Literature Search Query Generation Tool
 
 This tool helps you to create search queries for some of the common scientific literature databases.
 Especially if there are a lot of keywords involved or when the list of keywords is still volatile,  this tool can help you generate the respective search strings automatically.
 
-## Usage
+### Usage
 
 There are generators for the databases of IEEE Xplore, ACM Digital Library, Scopus, Web of Science and SpringerLink.
 Currently only the Metadata Title, Abstract and Keywords are supported (but of course can be easily extended).
@@ -56,6 +61,6 @@ Now the searchquery can be automatically generated.
 The generated search query can then be pasted into the respective advanced search fields of the databases.
 In case of SpringerLink, the generated query can only search in Title and Keywords (by 31.07.2023) and be used only in conjunction with their official REST API.
 
-## License
+### License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
