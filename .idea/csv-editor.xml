@@ -73,6 +73,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\01_rnd_abstract_SAM.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\python\at\jku\scsl\main\outputs\01_clear_irrelevant\first_rnd.csv">
           <value>
             <Attribute>
@@ -102,27 +109,6 @@
           </value>
         </entry>
         <entry key="\src\main\python\at\jku\scsl\main\outputs\cleaning_export\raw_literature_parser_result.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\main\python\at\jku\scsl\main\resources_abstract_exclusion\01_rnd_abstract_SAM.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\main\python\at\jku\scsl\main\resources_abstract_exclusion\02_rnd_abstract_MIKE.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\main\python\at\jku\scsl\main\resources_abstract_exclusion\03_rnd_abstract_MV.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
