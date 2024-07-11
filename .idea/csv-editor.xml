@@ -73,10 +73,59 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\03_manual_parse_title_team\02_rnd_set_clear_exclusion_MIKE.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\01_rnd_abstract_SAM.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\02_rnd_abstract_MIKE.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\03_rnd_abstract_MV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\MS_Pre_Exclusion_abstracts_All_Paper.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\disagreements\Abstract_Second_Opinion_MV - Sheet1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\04_abstract_parsing_results\disagreements\Abstract_Second_Opinion_Sam - Sheet1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\input\05_pre_study\Pre_Exclusion_abstracts_disagreements_resolved.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
@@ -101,6 +150,41 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\04_manual_parse_abstract\01_rnd_abstract.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\04_manual_parse_abstract\02_rnd_abstract.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\04_manual_parse_abstract\03_rnd_abstract.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\05_pre_study.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\outputs\05_pre_study\inex_pre_study_papers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\python\at\jku\scsl\main\outputs\cleaning_export\cleaning_p2.csv">
           <value>
             <Attribute>
@@ -112,6 +196,13 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\python\at\jku\scsl\main\temp\temp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
