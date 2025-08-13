@@ -17,7 +17,7 @@ The keywords loaded for the query generation can be found in the `resources` dir
 Example usecases are provided in the `searchtool` directory.
 
 See the following excerpt of the `ACMSearch.java`:
-```
+```java
 logger.info("---------- Fourth Query ----------");
 String keywordFilePath = "src" + FILE_PATH_SEP + "main" + FILE_PATH_SEP + "resources" + FILE_PATH_SEP + "keywords" + FILE_PATH_SEP + "keywords_v2.txt";
 List<String> keywordList = Util.readKeywords(keywordFilePath);
